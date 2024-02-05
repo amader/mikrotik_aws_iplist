@@ -3,6 +3,8 @@ import json
 import os
 from datetime import datetime
 
+os.chdir("/home/debian/Scripts/mikrotik_aws_iplist");
+
 url = "https://ip-ranges.amazonaws.com/ip-ranges.json";
 data = json.loads(urlopen(url).read().decode("utf-8"));
 generationDate = "{} CET".format(datetime.now().strftime("%Y-%m-%d, %H:%M:%S"));
