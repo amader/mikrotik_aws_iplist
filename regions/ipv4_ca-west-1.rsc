@@ -1,4 +1,4 @@
-# Generated on 2024-02-05, 22:51:33 CET
+# Generated on 2024-02-05, 23:04:06 CET
 /ip firewall address-list
 add list=aws_ca-west-1 address=13.34.90.32/27
 add list=aws_ca-west-1 address=15.177.100.0/24

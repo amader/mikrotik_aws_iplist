@@ -1,4 +1,4 @@
-# Generated on 2024-02-05, 22:51:33 CET
+# Generated on 2024-02-05, 23:04:06 CET
 /ipv6 firewall address-list
 add list=aws_us-west-1_v6 address=2620:107:4000:9018::/64
 add list=aws_us-west-1_v6 address=2620:107:4000:9011::/64

@@ -1,4 +1,4 @@
-# Generated on 2024-02-05, 22:51:33 CET
+# Generated on 2024-02-05, 23:04:06 CET
 /ip firewall address-list
 add list=aws_GLOBAL address=120.52.22.96/27
 add list=aws_GLOBAL address=13.34.50.32/27
