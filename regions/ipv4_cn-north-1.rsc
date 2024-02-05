@@ -1,4 +1,4 @@
-# Generated on 2024-02-05, 22:29:12 CET
+# Generated on 2024-02-05, 22:30:05 CET
 /ip firewall address-list
 add list=aws_cn-north-1 address=54.222.88.0/24
 add list=aws_cn-north-1 address=54.222.64.0/24
