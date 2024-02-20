@@ -1,4 +1,4 @@
-# Generated on 2024-02-19, 01:02:02 CET
+# Generated on 2024-02-20, 01:02:02 CET
 /ip firewall address-list
 add list=aws_il-central-1 address=13.34.65.64/27
 add list=aws_il-central-1 address=51.85.0.0/16
@@ -7,7 +7,6 @@ add list=aws_il-central-1 address=150.222.52.32/27
 add list=aws_il-central-1 address=15.251.0.27/32
 add list=aws_il-central-1 address=13.34.65.0/27
 add list=aws_il-central-1 address=15.177.99.0/24
-add list=aws_il-central-1 address=54.25.0.0/16
 add list=aws_il-central-1 address=150.222.52.0/27
 add list=aws_il-central-1 address=15.251.0.28/32
 add list=aws_il-central-1 address=52.93.32.184/32
@@ -42,7 +41,6 @@ add list=aws_il-central-1 address=16.12.14.0/24
 add list=aws_il-central-1 address=3.5.56.0/22
 add list=aws_il-central-1 address=13.248.72.0/24
 add list=aws_il-central-1 address=15.177.99.0/24
-add list=aws_il-central-1 address=54.25.0.0/16
 add list=aws_il-central-1 address=51.84.0.0/16
 add list=aws_il-central-1 address=99.77.163.0/24
 add list=aws_il-central-1 address=52.94.250.32/28
