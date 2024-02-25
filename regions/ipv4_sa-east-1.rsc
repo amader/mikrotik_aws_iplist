@@ -1,4 +1,4 @@
-# Generated on 2024-02-24, 01:02:02 CET
+# Generated on 2024-02-25, 01:02:02 CET
 /ip firewall address-list
 add list=aws_sa-east-1 address=3.2.35.64/26
 add list=aws_sa-east-1 address=64.252.81.0/24
