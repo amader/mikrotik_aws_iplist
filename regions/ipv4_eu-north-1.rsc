@@ -1,4 +1,4 @@
-# Generated on 2024-02-29, 01:02:01 CET
+# Generated on 2024-03-01, 01:02:02 CET
 /ip firewall address-list
 add list=aws_eu-north-1 address=52.46.220.0/22
 add list=aws_eu-north-1 address=15.230.68.192/26
@@ -17,7 +17,6 @@ add list=aws_eu-north-1 address=52.95.169.0/24
 add list=aws_eu-north-1 address=150.222.203.0/24
 add list=aws_eu-north-1 address=15.230.96.0/24
 add list=aws_eu-north-1 address=150.222.42.64/26
-add list=aws_eu-north-1 address=142.4.160.232/29
 add list=aws_eu-north-1 address=99.77.137.0/24
 add list=aws_eu-north-1 address=52.95.227.0/24
 add list=aws_eu-north-1 address=13.50.0.0/16
@@ -41,13 +40,11 @@ add list=aws_eu-north-1 address=15.230.69.0/26
 add list=aws_eu-north-1 address=16.170.0.0/15
 add list=aws_eu-north-1 address=52.144.216.10/31
 add list=aws_eu-north-1 address=52.144.208.0/31
-add list=aws_eu-north-1 address=3.2.32.64/26
 add list=aws_eu-north-1 address=52.144.208.2/31
 add list=aws_eu-north-1 address=3.5.216.0/22
 add list=aws_eu-north-1 address=16.16.0.0/16
 add list=aws_eu-north-1 address=52.144.215.200/31
 add list=aws_eu-north-1 address=16.12.9.0/24
-add list=aws_eu-north-1 address=142.4.160.240/29
 add list=aws_eu-north-1 address=15.177.72.0/24
 add list=aws_eu-north-1 address=52.94.23.0/24
 add list=aws_eu-north-1 address=150.222.117.0/24
@@ -96,7 +93,6 @@ add list=aws_eu-north-1 address=52.94.23.0/24
 add list=aws_eu-north-1 address=96.0.32.0/22
 add list=aws_eu-north-1 address=15.220.168.0/21
 add list=aws_eu-north-1 address=51.20.0.0/16
-add list=aws_eu-north-1 address=142.4.160.232/29
 add list=aws_eu-north-1 address=99.77.137.0/24
 add list=aws_eu-north-1 address=52.95.227.0/24
 add list=aws_eu-north-1 address=13.50.0.0/16
@@ -109,10 +105,8 @@ add list=aws_eu-north-1 address=13.51.0.0/16
 add list=aws_eu-north-1 address=173.83.220.0/24
 add list=aws_eu-north-1 address=13.48.0.0/15
 add list=aws_eu-north-1 address=16.170.0.0/15
-add list=aws_eu-north-1 address=3.2.32.64/26
 add list=aws_eu-north-1 address=3.5.216.0/22
 add list=aws_eu-north-1 address=16.16.0.0/16
-add list=aws_eu-north-1 address=142.4.160.240/29
 add list=aws_eu-north-1 address=15.177.72.0/24
 add list=aws_eu-north-1 address=15.220.148.0/22
 add list=aws_eu-north-1 address=204.87.185.0/24
