@@ -1,4 +1,4 @@
-# Generated on 2024-03-05, 01:02:02 CET
+# Generated on 2024-03-06, 01:02:02 CET
 /ip firewall address-list
 add list=aws_ap-south-1 address=3.108.0.0/14
 add list=aws_ap-south-1 address=13.34.48.0/27
@@ -212,11 +212,13 @@ add list=aws_ap-south-1 address=13.127.70.152/29
 add list=aws_ap-south-1 address=13.127.70.160/29
 add list=aws_ap-south-1 address=13.200.140.0/23
 add list=aws_ap-south-1 address=13.200.142.112/30
+add list=aws_ap-south-1 address=13.200.142.116/31
 add list=aws_ap-south-1 address=13.200.142.82/31
 add list=aws_ap-south-1 address=13.200.7.128/29
 add list=aws_ap-south-1 address=13.200.7.136/29
 add list=aws_ap-south-1 address=13.200.90.0/23
 add list=aws_ap-south-1 address=13.200.92.0/22
+add list=aws_ap-south-1 address=13.201.195.64/30
 add list=aws_ap-south-1 address=13.232.67.128/27
 add list=aws_ap-south-1 address=13.232.67.160/27
 add list=aws_ap-south-1 address=13.233.177.0/29
