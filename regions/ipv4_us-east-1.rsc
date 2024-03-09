@@ -1,4 +1,4 @@
-# Generated on 2024-03-08, 01:02:02 CET
+# Generated on 2024-03-09, 01:02:01 CET
 /ip firewall address-list
 add list=aws_us-east-1 address=13.34.66.0/27
 add list=aws_us-east-1 address=15.230.221.0/24
@@ -17,6 +17,7 @@ add list=aws_us-east-1 address=13.34.105.128/27
 add list=aws_us-east-1 address=50.16.0.0/15
 add list=aws_us-east-1 address=52.95.208.0/22
 add list=aws_us-east-1 address=13.34.110.224/27
+add list=aws_us-east-1 address=13.34.114.128/27
 add list=aws_us-east-1 address=15.220.196.0/22
 add list=aws_us-east-1 address=52.93.127.169/32
 add list=aws_us-east-1 address=52.94.244.0/22
@@ -36,6 +37,7 @@ add list=aws_us-east-1 address=13.248.124.0/24
 add list=aws_us-east-1 address=15.220.222.0/23
 add list=aws_us-east-1 address=52.93.40.0/24
 add list=aws_us-east-1 address=13.34.83.192/27
+add list=aws_us-east-1 address=13.34.114.0/27
 add list=aws_us-east-1 address=15.181.247.0/24
 add list=aws_us-east-1 address=18.232.0.0/14
 add list=aws_us-east-1 address=15.220.120.0/21
@@ -235,6 +237,7 @@ add list=aws_us-east-1 address=162.250.236.0/24
 add list=aws_us-east-1 address=13.34.50.128/27
 add list=aws_us-east-1 address=13.34.75.64/27
 add list=aws_us-east-1 address=13.34.78.64/27
+add list=aws_us-east-1 address=13.34.114.64/27
 add list=aws_us-east-1 address=52.46.250.0/23
 add list=aws_us-east-1 address=150.222.205.0/24
 add list=aws_us-east-1 address=52.93.91.112/32
@@ -243,6 +246,7 @@ add list=aws_us-east-1 address=15.230.214.0/24
 add list=aws_us-east-1 address=34.224.0.0/12
 add list=aws_us-east-1 address=96.0.88.0/22
 add list=aws_us-east-1 address=13.34.31.96/27
+add list=aws_us-east-1 address=13.34.114.32/27
 add list=aws_us-east-1 address=136.18.50.0/23
 add list=aws_us-east-1 address=52.93.50.0/24
 add list=aws_us-east-1 address=52.93.127.221/32
@@ -273,6 +277,7 @@ add list=aws_us-east-1 address=15.230.38.0/24
 add list=aws_us-east-1 address=52.93.127.68/32
 add list=aws_us-east-1 address=52.94.201.64/26
 add list=aws_us-east-1 address=174.129.0.0/16
+add list=aws_us-east-1 address=13.34.114.96/27
 add list=aws_us-east-1 address=18.89.128.0/18
 add list=aws_us-east-1 address=52.95.255.80/28
 add list=aws_us-east-1 address=150.222.87.0/24
@@ -307,6 +312,7 @@ add list=aws_us-east-1 address=15.230.201.0/24
 add list=aws_us-east-1 address=52.20.0.0/14
 add list=aws_us-east-1 address=52.94.201.0/26
 add list=aws_us-east-1 address=76.223.172.0/22
+add list=aws_us-east-1 address=13.34.114.160/27
 add list=aws_us-east-1 address=54.242.0.0/15
 add list=aws_us-east-1 address=216.182.238.0/23
 add list=aws_us-east-1 address=13.34.75.224/27
