@@ -1,10 +1,11 @@
-# Generated on 2024-03-15, 01:02:01 CET
+# Generated on 2024-03-16, 01:02:02 CET
 /ip firewall address-list
 add list=aws_ap-southeast-5 address=15.190.32.0/20
 add list=aws_ap-southeast-5 address=16.12.44.0/24
 add list=aws_ap-southeast-5 address=99.151.160.0/21
 add list=aws_ap-southeast-5 address=13.34.108.192/27
 add list=aws_ap-southeast-5 address=13.34.18.4/32
+add list=aws_ap-southeast-5 address=104.255.59.201/32
 add list=aws_ap-southeast-5 address=13.248.75.0/24
 add list=aws_ap-southeast-5 address=13.34.18.35/32
 add list=aws_ap-southeast-5 address=13.34.18.3/32
@@ -29,6 +30,7 @@ add list=aws_ap-southeast-5 address=13.34.108.64/27
 add list=aws_ap-southeast-5 address=13.34.18.10/32
 add list=aws_ap-southeast-5 address=13.34.18.45/32
 add list=aws_ap-southeast-5 address=3.5.180.0/22
+add list=aws_ap-southeast-5 address=104.255.59.199/32
 add list=aws_ap-southeast-5 address=13.34.18.5/32
 add list=aws_ap-southeast-5 address=13.34.18.8/32
 add list=aws_ap-southeast-5 address=13.34.18.34/32
@@ -36,7 +38,9 @@ add list=aws_ap-southeast-5 address=13.34.18.11/32
 add list=aws_ap-southeast-5 address=13.34.18.2/32
 add list=aws_ap-southeast-5 address=52.94.250.80/28
 add list=aws_ap-southeast-5 address=56.71.0.0/16
+add list=aws_ap-southeast-5 address=104.255.59.197/32
 add list=aws_ap-southeast-5 address=15.248.56.0/21
+add list=aws_ap-southeast-5 address=104.255.59.198/32
 add list=aws_ap-southeast-5 address=13.34.18.48/32
 add list=aws_ap-southeast-5 address=13.34.18.6/32
 add list=aws_ap-southeast-5 address=13.34.18.14/32
@@ -44,8 +48,10 @@ add list=aws_ap-southeast-5 address=13.34.18.7/32
 add list=aws_ap-southeast-5 address=56.70.0.0/16
 add list=aws_ap-southeast-5 address=13.34.18.36/32
 add list=aws_ap-southeast-5 address=76.223.170.32/28
+add list=aws_ap-southeast-5 address=104.255.59.200/32
 add list=aws_ap-southeast-5 address=13.34.18.40/32
 add list=aws_ap-southeast-5 address=13.34.18.46/32
+add list=aws_ap-southeast-5 address=104.255.59.196/32
 add list=aws_ap-southeast-5 address=13.34.108.96/27
 add list=aws_ap-southeast-5 address=13.34.18.42/32
 add list=aws_ap-southeast-5 address=13.34.18.43/32
