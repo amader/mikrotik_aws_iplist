@@ -1,4 +1,4 @@
-# Generated on 2024-04-03, 00:02:02 CET
+# Generated on 2024-04-04, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_eu-west-1_v6 address=2600:1f01:4822::/56
 add list=aws_eu-west-1_v6 address=2600:f0f0:1:1a00::/56
@@ -9,7 +9,6 @@ add list=aws_eu-west-1_v6 address=2a01:578:0:7000::/56
 add list=aws_eu-west-1_v6 address=2600:f0f0:10::/48
 add list=aws_eu-west-1_v6 address=2a05:d034:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d078:8000::/40
-add list=aws_eu-west-1_v6 address=2600:9000:5200:1000::/56
 add list=aws_eu-west-1_v6 address=2a05:d07f:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d071:8000::/40
 add list=aws_eu-west-1_v6 address=2600:f002::/39
@@ -32,6 +31,7 @@ add list=aws_eu-west-1_v6 address=2a05:d050:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d035:8000::/40
 add list=aws_eu-west-1_v6 address=2a01:578:3::/48
 add list=aws_eu-west-1_v6 address=2a05:d03a:8000::/40
+add list=aws_eu-west-1_v6 address=2600:9000:5200::/48
 add list=aws_eu-west-1_v6 address=2a05:d072:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d034:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d078:8000::/40
@@ -44,7 +44,6 @@ add list=aws_eu-west-1_v6 address=2600:f0f0:82:200::/56
 add list=aws_eu-west-1_v6 address=2a05:d031:8000::/40
 add list=aws_eu-west-1_v6 address=2600:f0f0:10::/48
 add list=aws_eu-west-1_v6 address=2a05:d034:8000::/40
-add list=aws_eu-west-1_v6 address=2600:9000:5200:1000::/56
 add list=aws_eu-west-1_v6 address=2a05:d07f:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d071:8000::/40
 add list=aws_eu-west-1_v6 address=2600:f002::/39
@@ -61,6 +60,7 @@ add list=aws_eu-west-1_v6 address=2a05:d070:8000::/40
 add list=aws_eu-west-1_v6 address=2a05:d035:8000::/40
 add list=aws_eu-west-1_v6 address=2a01:578:3::/48
 add list=aws_eu-west-1_v6 address=2a05:d03a:8000::/40
+add list=aws_eu-west-1_v6 address=2600:9000:5200::/48
 add list=aws_eu-west-1_v6 address=2a05:d072:8000::/40
 add list=aws_eu-west-1_v6 address=2600:1f01:4802::/47
 add list=aws_eu-west-1_v6 address=2600:1f01:4820::/47
