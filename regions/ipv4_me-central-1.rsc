@@ -1,4 +1,4 @@
-# Generated on 2024-04-05, 00:02:01 CET
+# Generated on 2024-04-06, 00:02:01 CET
 /ip firewall address-list
 add list=aws_me-central-1 address=40.172.0.0/16
 add list=aws_me-central-1 address=52.95.187.0/24
