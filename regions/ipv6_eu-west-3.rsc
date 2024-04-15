@@ -1,4 +1,4 @@
-# Generated on 2024-04-15, 00:02:02 CET
+# Generated on 2024-04-16, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_eu-west-3_v6 address=2a01:578:0:7301::1/128
 add list=aws_eu-west-3_v6 address=2a05:d050:2000::/40
@@ -15,7 +15,6 @@ add list=aws_eu-west-3_v6 address=2a05:d07c:2000::/40
 add list=aws_eu-west-3_v6 address=2a05:d012::/36
 add list=aws_eu-west-3_v6 address=2a05:d079:2000::/40
 add list=aws_eu-west-3_v6 address=2600:f0f0:1:1c00::/56
-add list=aws_eu-west-3_v6 address=2600:f0f0:82:d00::/56
 add list=aws_eu-west-3_v6 address=2a05:d070:2000::/40
 add list=aws_eu-west-3_v6 address=2a05:d071:2000::/40
 add list=aws_eu-west-3_v6 address=2a05:d07f:2000::/40
@@ -38,7 +37,6 @@ add list=aws_eu-west-3_v6 address=2a05:d022::/36
 add list=aws_eu-west-3_v6 address=2a05:d031:2000::/40
 add list=aws_eu-west-3_v6 address=2a05:d012::/36
 add list=aws_eu-west-3_v6 address=2600:f0f0:1:1c00::/56
-add list=aws_eu-west-3_v6 address=2600:f0f0:82:d00::/56
 add list=aws_eu-west-3_v6 address=2a05:d070:2000::/40
 add list=aws_eu-west-3_v6 address=2a05:d071:2000::/40
 add list=aws_eu-west-3_v6 address=2a05:d07f:2000::/40
