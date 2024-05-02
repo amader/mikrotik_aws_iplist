@@ -1,4 +1,4 @@
-# Generated on 2024-05-02, 00:02:02 CET
+# Generated on 2024-05-03, 00:02:02 CET
 /ip firewall address-list
 add list=aws_eu-south-2 address=150.222.50.32/27
 add list=aws_eu-south-2 address=52.95.136.0/23
