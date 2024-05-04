@@ -1,4 +1,4 @@
-# Generated on 2024-05-04, 00:02:02 CET
+# Generated on 2024-05-05, 00:02:01 CET
 /ipv6 firewall address-list
 add list=aws_eu-west-1_v6 address=2600:1f01:4822::/56
 add list=aws_eu-west-1_v6 address=2600:f0f0:1:1a00::/56
