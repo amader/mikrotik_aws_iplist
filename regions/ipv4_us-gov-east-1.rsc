@@ -1,4 +1,4 @@
-# Generated on 2024-05-06, 00:02:02 CET
+# Generated on 2024-05-07, 00:02:02 CET
 /ip firewall address-list
 add list=aws_us-gov-east-1 address=35.71.115.0/24
 add list=aws_us-gov-east-1 address=16.64.0.0/16
@@ -20,10 +20,15 @@ add list=aws_us-gov-east-1 address=52.46.96.0/19
 add list=aws_us-gov-east-1 address=54.239.1.64/28
 add list=aws_us-gov-east-1 address=18.254.0.0/16
 add list=aws_us-gov-east-1 address=3.4.24.0/21
+add list=aws_us-gov-east-1 address=18.252.126.0/25
+add list=aws_us-gov-east-1 address=18.252.165.0/26
+add list=aws_us-gov-east-1 address=18.252.58.0/23
+add list=aws_us-gov-east-1 address=18.254.23.64/26
+add list=aws_us-gov-east-1 address=18.254.61.128/26
 add list=aws_us-gov-east-1 address=108.175.52.0/22
 add list=aws_us-gov-east-1 address=108.175.60.0/22
-add list=aws_us-gov-east-1 address=35.71.115.0/24
-add list=aws_us-gov-east-1 address=52.94.22.0/24
+add list=aws_us-gov-east-1 address=18.252.145.192/28
+add list=aws_us-gov-east-1 address=18.252.145.208/28
 add list=aws_us-gov-east-1 address=35.71.115.0/24
 add list=aws_us-gov-east-1 address=99.77.183.0/24
 add list=aws_us-gov-east-1 address=182.30.0.0/16
@@ -34,21 +39,16 @@ add list=aws_us-gov-east-1 address=18.253.0.0/16
 add list=aws_us-gov-east-1 address=52.94.249.112/28
 add list=aws_us-gov-east-1 address=18.254.0.0/16
 add list=aws_us-gov-east-1 address=3.4.24.0/21
-add list=aws_us-gov-east-1 address=18.252.126.0/25
-add list=aws_us-gov-east-1 address=18.252.145.156/30
-add list=aws_us-gov-east-1 address=18.252.145.160/29
 add list=aws_us-gov-east-1 address=18.252.145.168/29
-add list=aws_us-gov-east-1 address=18.252.145.192/28
-add list=aws_us-gov-east-1 address=18.252.145.208/28
-add list=aws_us-gov-east-1 address=18.252.165.0/26
-add list=aws_us-gov-east-1 address=18.252.165.140/30
-add list=aws_us-gov-east-1 address=18.252.4.0/30
 add list=aws_us-gov-east-1 address=18.252.4.16/29
 add list=aws_us-gov-east-1 address=18.252.56.0/23
-add list=aws_us-gov-east-1 address=18.252.58.0/23
 add list=aws_us-gov-east-1 address=18.253.186.0/24
+add list=aws_us-gov-east-1 address=18.254.68.0/23
+add list=aws_us-gov-east-1 address=18.252.145.156/30
+add list=aws_us-gov-east-1 address=18.252.145.160/29
+add list=aws_us-gov-east-1 address=18.252.4.0/30
+add list=aws_us-gov-east-1 address=18.252.165.140/30
 add list=aws_us-gov-east-1 address=18.254.140.0/22
 add list=aws_us-gov-east-1 address=18.254.148.0/22
-add list=aws_us-gov-east-1 address=18.254.23.64/26
-add list=aws_us-gov-east-1 address=18.254.61.128/26
-add list=aws_us-gov-east-1 address=18.254.68.0/23
+add list=aws_us-gov-east-1 address=35.71.115.0/24
+add list=aws_us-gov-east-1 address=52.94.22.0/24
