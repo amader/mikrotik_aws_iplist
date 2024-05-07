@@ -1,4 +1,4 @@
-# Generated on 2024-05-07, 00:02:02 CET
+# Generated on 2024-05-08, 00:02:02 CET
 /ip firewall address-list
 add list=aws_me-south-1 address=15.185.0.0/16
 add list=aws_me-south-1 address=35.71.99.0/24
@@ -49,6 +49,7 @@ add list=aws_me-south-1 address=15.230.69.192/26
 add list=aws_me-south-1 address=150.222.7.0/24
 add list=aws_me-south-1 address=15.177.87.0/24
 add list=aws_me-south-1 address=54.239.1.112/28
+add list=aws_me-south-1 address=15.230.121.0/31
 add list=aws_me-south-1 address=13.34.78.192/27
 add list=aws_me-south-1 address=56.185.0.0/16
 add list=aws_me-south-1 address=13.34.20.32/27
