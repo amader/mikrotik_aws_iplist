@@ -1,4 +1,4 @@
-# Generated on 2024-05-08, 00:02:02 CET
+# Generated on 2024-05-09, 00:02:01 CET
 /ipv6 firewall address-list
 add list=aws_ap-southeast-5_v6 address=2406:dafc:8c0::/46
 add list=aws_ap-southeast-5_v6 address=2406:da61:800::/40
