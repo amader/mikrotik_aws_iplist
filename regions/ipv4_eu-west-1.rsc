@@ -1,4 +1,4 @@
-# Generated on 2024-05-16, 00:02:02 CET
+# Generated on 2024-05-17, 00:02:02 CET
 /ip firewall address-list
 add list=aws_eu-west-1 address=99.87.32.0/22
 add list=aws_eu-west-1 address=150.222.81.0/24
@@ -483,6 +483,7 @@ add list=aws_eu-west-1 address=3.254.234.0/25
 add list=aws_eu-west-1 address=3.254.234.128/25
 add list=aws_eu-west-1 address=3.254.236.0/22
 add list=aws_eu-west-1 address=3.254.8.0/25
+add list=aws_eu-west-1 address=54.247.250.0/25
 add list=aws_eu-west-1 address=63.34.60.0/22
 add list=aws_eu-west-1 address=99.80.34.128/25
 add list=aws_eu-west-1 address=99.77.250.0/24
