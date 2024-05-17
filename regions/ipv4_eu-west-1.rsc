@@ -1,4 +1,4 @@
-# Generated on 2024-05-17, 00:02:02 CET
+# Generated on 2024-05-18, 00:02:02 CET
 /ip firewall address-list
 add list=aws_eu-west-1 address=99.87.32.0/22
 add list=aws_eu-west-1 address=150.222.81.0/24
@@ -7,6 +7,7 @@ add list=aws_eu-west-1 address=13.34.10.45/32
 add list=aws_eu-west-1 address=13.34.21.46/32
 add list=aws_eu-west-1 address=52.93.17.0/24
 add list=aws_eu-west-1 address=52.93.45.0/25
+add list=aws_eu-west-1 address=18.97.192.0/18
 add list=aws_eu-west-1 address=52.94.24.0/23
 add list=aws_eu-west-1 address=13.34.3.43/32
 add list=aws_eu-west-1 address=13.34.83.128/27
@@ -247,6 +248,7 @@ add list=aws_eu-west-1 address=13.34.9.194/32
 add list=aws_eu-west-1 address=13.34.3.5/32
 add list=aws_eu-west-1 address=13.34.10.5/32
 add list=aws_eu-west-1 address=52.93.36.0/24
+add list=aws_eu-west-1 address=150.222.164.214/31
 add list=aws_eu-west-1 address=54.239.114.0/25
 add list=aws_eu-west-1 address=13.34.10.43/32
 add list=aws_eu-west-1 address=52.94.196.0/24
@@ -495,6 +497,7 @@ add list=aws_eu-west-1 address=3.5.64.0/21
 add list=aws_eu-west-1 address=52.92.0.0/17
 add list=aws_eu-west-1 address=3.251.110.208/28
 add list=aws_eu-west-1 address=3.251.110.224/28
+add list=aws_eu-west-1 address=18.97.192.0/18
 add list=aws_eu-west-1 address=54.247.0.0/16
 add list=aws_eu-west-1 address=18.200.0.0/16
 add list=aws_eu-west-1 address=54.74.0.0/15
