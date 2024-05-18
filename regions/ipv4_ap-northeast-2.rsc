@@ -1,4 +1,4 @@
-# Generated on 2024-05-18, 00:02:02 CET
+# Generated on 2024-05-19, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ap-northeast-2 address=3.5.140.0/22
 add list=aws_ap-northeast-2 address=13.34.12.166/32
@@ -58,6 +58,7 @@ add list=aws_ap-northeast-2 address=99.78.188.0/22
 add list=aws_ap-northeast-2 address=13.34.12.131/32
 add list=aws_ap-northeast-2 address=13.34.12.137/32
 add list=aws_ap-northeast-2 address=13.34.116.128/27
+add list=aws_ap-northeast-2 address=16.184.0.0/18
 add list=aws_ap-northeast-2 address=104.255.59.118/32
 add list=aws_ap-northeast-2 address=18.98.128.0/19
 add list=aws_ap-northeast-2 address=13.34.12.164/32
@@ -143,6 +144,7 @@ add list=aws_ap-northeast-2 address=54.180.0.0/15
 add list=aws_ap-northeast-2 address=52.79.0.0/16
 add list=aws_ap-northeast-2 address=159.248.200.0/21
 add list=aws_ap-northeast-2 address=3.5.184.0/21
+add list=aws_ap-northeast-2 address=16.184.0.0/18
 add list=aws_ap-northeast-2 address=18.98.128.0/19
 add list=aws_ap-northeast-2 address=13.125.0.0/16
 add list=aws_ap-northeast-2 address=15.193.9.0/24
