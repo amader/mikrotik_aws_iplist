@@ -1,4 +1,4 @@
-# Generated on 2024-05-28, 00:02:01 CET
+# Generated on 2024-05-29, 00:02:01 CET
 /ipv6 firewall address-list
 add list=aws_ap-northeast-1_v6 address=2600:9000:5207::/48
 add list=aws_ap-northeast-1_v6 address=2406:da61:4000::/40
@@ -82,4 +82,5 @@ add list=aws_ap-northeast-1_v6 address=2406:daff:4000::/40
 add list=aws_ap-northeast-1_v6 address=2406:da60:4000::/40
 add list=aws_ap-northeast-1_v6 address=2600:1ffd:8143::/48
 add list=aws_ap-northeast-1_v6 address=2406:daf7:4041::/48
+add list=aws_ap-northeast-1_v6 address=2600:9000:5207::/48
 add list=aws_ap-northeast-1_v6 address=2600:1f01:4880::/47
