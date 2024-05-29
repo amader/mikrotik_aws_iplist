@@ -1,4 +1,4 @@
-# Generated on 2024-05-29, 00:02:01 CET
+# Generated on 2024-05-30, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-west-2_v6 address=2600:1f01:4874::/47
 add list=aws_us-west-2_v6 address=2600:1f1d:8000::/36
@@ -175,7 +175,4 @@ add list=aws_us-west-2_v6 address=2620:107:4005::/48
 add list=aws_us-west-2_v6 address=2600:1f1b:8000::/36
 add list=aws_us-west-2_v6 address=2600:1ff2:4000::/39
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:f210::/60
-add list=aws_us-west-2_v6 address=2600:9000:5211::/48
-add list=aws_us-west-2_v6 address=2600:9000:5204::/48
-add list=aws_us-west-2_v6 address=2600:9000:5202::/48
 add list=aws_us-west-2_v6 address=2600:1f01:4874::/47

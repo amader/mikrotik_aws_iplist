@@ -1,4 +1,4 @@
-# Generated on 2024-05-29, 00:02:01 CET
+# Generated on 2024-05-30, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_me-central-1_v6 address=2406:daa0:7000::/40
 add list=aws_me-central-1_v6 address=2406:da61:7000::/40
@@ -37,4 +37,3 @@ add list=aws_me-central-1_v6 address=2406:da00:7000::/40
 add list=aws_me-central-1_v6 address=2406:da69:7000::/40
 add list=aws_me-central-1_v6 address=2406:daf2:7000::/40
 add list=aws_me-central-1_v6 address=2406:daf0:7000::/40
-add list=aws_me-central-1_v6 address=2600:9000:520d::/48

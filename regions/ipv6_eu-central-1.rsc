@@ -1,4 +1,4 @@
-# Generated on 2024-05-29, 00:02:01 CET
+# Generated on 2024-05-30, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_eu-central-1_v6 address=2600:1ffd:80a7::/48
 add list=aws_eu-central-1_v6 address=2a05:d070:4000::/40
@@ -19,6 +19,7 @@ add list=aws_eu-central-1_v6 address=2a05:d030:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d07c:4000::/40
 add list=aws_eu-central-1_v6 address=2406:dafc:ffa0::/46
 add list=aws_eu-central-1_v6 address=2a05:d024::/36
+add list=aws_eu-central-1_v6 address=2a05:d038:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d014::/35
 add list=aws_eu-central-1_v6 address=2600:1ffd:80f0::/48
 add list=aws_eu-central-1_v6 address=2a05:d079:4000::/40
@@ -66,6 +67,7 @@ add list=aws_eu-central-1_v6 address=2a05:d000:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d072:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d030:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d024::/36
+add list=aws_eu-central-1_v6 address=2a05:d038:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d014::/35
 add list=aws_eu-central-1_v6 address=2600:1ffd:80f0::/48
 add list=aws_eu-central-1_v6 address=2600:1ffd:80d0::/48
@@ -78,5 +80,4 @@ add list=aws_eu-central-1_v6 address=2600:1ffd:80cb::/48
 add list=aws_eu-central-1_v6 address=2600:f0f0:4::/48
 add list=aws_eu-central-1_v6 address=2620:107:4003::/48
 add list=aws_eu-central-1_v6 address=2a05:d01d::/36
-add list=aws_eu-central-1_v6 address=2600:9000:520b::/48
 add list=aws_eu-central-1_v6 address=2600:1f01:4830::/47
