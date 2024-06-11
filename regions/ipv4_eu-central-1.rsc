@@ -1,4 +1,4 @@
-# Generated on 2024-06-11, 00:02:02 CET
+# Generated on 2024-06-12, 00:02:02 CET
 /ip firewall address-list
 add list=aws_eu-central-1 address=13.34.9.100/32
 add list=aws_eu-central-1 address=15.230.15.29/32
@@ -63,6 +63,7 @@ add list=aws_eu-central-1 address=13.34.92.64/27
 add list=aws_eu-central-1 address=15.230.15.28/32
 add list=aws_eu-central-1 address=15.230.15.170/31
 add list=aws_eu-central-1 address=15.230.15.32/31
+add list=aws_eu-central-1 address=15.145.2.0/23
 add list=aws_eu-central-1 address=52.219.211.0/24
 add list=aws_eu-central-1 address=173.82.255.0/24
 add list=aws_eu-central-1 address=52.93.127.238/32
@@ -154,6 +155,7 @@ add list=aws_eu-central-1 address=15.230.15.206/31
 add list=aws_eu-central-1 address=13.34.9.65/32
 add list=aws_eu-central-1 address=15.230.15.214/31
 add list=aws_eu-central-1 address=15.230.15.130/31
+add list=aws_eu-central-1 address=15.145.0.0/23
 add list=aws_eu-central-1 address=15.230.15.116/31
 add list=aws_eu-central-1 address=13.34.105.64/27
 add list=aws_eu-central-1 address=99.77.158.0/24
@@ -177,6 +179,7 @@ add list=aws_eu-central-1 address=52.94.198.48/28
 add list=aws_eu-central-1 address=15.230.85.0/24
 add list=aws_eu-central-1 address=13.34.8.206/32
 add list=aws_eu-central-1 address=13.34.9.98/32
+add list=aws_eu-central-1 address=15.145.12.0/22
 add list=aws_eu-central-1 address=13.34.8.202/32
 add list=aws_eu-central-1 address=15.230.15.88/31
 add list=aws_eu-central-1 address=15.230.15.156/31
@@ -251,7 +254,9 @@ add list=aws_eu-central-1 address=13.34.5.96/27
 add list=aws_eu-central-1 address=13.34.8.239/32
 add list=aws_eu-central-1 address=13.34.33.128/27
 add list=aws_eu-central-1 address=52.219.169.0/24
+add list=aws_eu-central-1 address=15.145.16.0/22
 add list=aws_eu-central-1 address=54.239.0.160/28
+add list=aws_eu-central-1 address=15.145.4.0/23
 add list=aws_eu-central-1 address=150.222.139.116/30
 add list=aws_eu-central-1 address=15.230.15.7/32
 add list=aws_eu-central-1 address=15.230.15.216/31
@@ -327,6 +332,7 @@ add list=aws_eu-central-1 address=52.93.126.134/32
 add list=aws_eu-central-1 address=35.71.105.0/24
 add list=aws_eu-central-1 address=52.28.0.0/16
 add list=aws_eu-central-1 address=13.34.9.103/32
+add list=aws_eu-central-1 address=15.145.8.0/22
 add list=aws_eu-central-1 address=15.230.15.92/31
 add list=aws_eu-central-1 address=15.230.15.212/31
 add list=aws_eu-central-1 address=150.222.35.0/25
@@ -375,6 +381,7 @@ add list=aws_eu-central-1 address=18.192.0.0/15
 add list=aws_eu-central-1 address=64.252.89.0/24
 add list=aws_eu-central-1 address=63.176.0.0/14
 add list=aws_eu-central-1 address=99.77.136.0/24
+add list=aws_eu-central-1 address=15.145.2.0/23
 add list=aws_eu-central-1 address=173.82.255.0/24
 add list=aws_eu-central-1 address=52.58.0.0/15
 add list=aws_eu-central-1 address=15.220.48.0/21
@@ -389,9 +396,11 @@ add list=aws_eu-central-1 address=15.220.152.0/21
 add list=aws_eu-central-1 address=18.156.0.0/14
 add list=aws_eu-central-1 address=15.220.144.0/23
 add list=aws_eu-central-1 address=64.252.87.0/24
+add list=aws_eu-central-1 address=15.145.0.0/23
 add list=aws_eu-central-1 address=99.77.158.0/24
 add list=aws_eu-central-1 address=3.64.0.0/12
 add list=aws_eu-central-1 address=151.148.35.0/24
+add list=aws_eu-central-1 address=15.145.12.0/22
 add list=aws_eu-central-1 address=99.77.247.0/24
 add list=aws_eu-central-1 address=64.252.88.0/24
 add list=aws_eu-central-1 address=52.29.0.0/16
@@ -402,6 +411,8 @@ add list=aws_eu-central-1 address=3.120.0.0/14
 add list=aws_eu-central-1 address=18.198.0.0/15
 add list=aws_eu-central-1 address=52.94.248.112/28
 add list=aws_eu-central-1 address=35.156.0.0/14
+add list=aws_eu-central-1 address=15.145.16.0/22
+add list=aws_eu-central-1 address=15.145.4.0/23
 add list=aws_eu-central-1 address=18.153.0.0/16
 add list=aws_eu-central-1 address=173.83.196.0/23
 add list=aws_eu-central-1 address=64.252.86.0/24
@@ -413,6 +424,7 @@ add list=aws_eu-central-1 address=18.194.0.0/15
 add list=aws_eu-central-1 address=52.46.184.0/22
 add list=aws_eu-central-1 address=35.71.105.0/24
 add list=aws_eu-central-1 address=52.28.0.0/16
+add list=aws_eu-central-1 address=15.145.8.0/22
 add list=aws_eu-central-1 address=3.5.134.0/23
 add list=aws_eu-central-1 address=15.177.68.0/23
 add list=aws_eu-central-1 address=18.192.142.0/23
