@@ -1,4 +1,4 @@
-# Generated on 2024-06-18, 00:02:02 CET
+# Generated on 2024-06-19, 00:02:01 CET
 /ip firewall address-list
 add list=aws_us-gov-west-1 address=52.119.208.0/23
 add list=aws_us-gov-west-1 address=15.205.0.0/16
@@ -73,6 +73,22 @@ add list=aws_us-gov-west-1 address=15.205.82.0/23
 add list=aws_us-gov-west-1 address=15.205.84.0/23
 add list=aws_us-gov-west-1 address=160.1.128.0/24
 add list=aws_us-gov-west-1 address=3.30.204.0/24
+add list=aws_us-gov-west-1 address=15.200.141.128/25
+add list=aws_us-gov-west-1 address=15.200.176.0/25
+add list=aws_us-gov-west-1 address=15.200.27.96/27
+add list=aws_us-gov-west-1 address=15.200.28.0/27
+add list=aws_us-gov-west-1 address=15.200.28.32/27
+add list=aws_us-gov-west-1 address=3.32.190.128/27
+add list=aws_us-gov-west-1 address=3.32.190.160/27
+add list=aws_us-gov-west-1 address=3.32.249.128/25
+add list=aws_us-gov-west-1 address=3.32.43.160/27
+add list=aws_us-gov-west-1 address=52.61.40.16/28
+add list=aws_us-gov-west-1 address=52.61.40.32/28
+add list=aws_us-gov-west-1 address=52.61.40.48/29
+add list=aws_us-gov-west-1 address=52.61.40.56/29
+add list=aws_us-gov-west-1 address=52.61.40.64/29
+add list=aws_us-gov-west-1 address=52.61.40.72/29
+add list=aws_us-gov-west-1 address=52.61.40.80/29
 add list=aws_us-gov-west-1 address=3.32.190.244/30
 add list=aws_us-gov-west-1 address=3.32.190.248/29
 add list=aws_us-gov-west-1 address=15.200.28.80/30
