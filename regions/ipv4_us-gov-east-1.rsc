@@ -1,4 +1,4 @@
-# Generated on 2024-06-21, 00:02:02 CET
+# Generated on 2024-06-22, 00:02:02 CET
 /ip firewall address-list
 add list=aws_us-gov-east-1 address=35.71.115.0/24
 add list=aws_us-gov-east-1 address=16.64.0.0/16
@@ -18,6 +18,7 @@ add list=aws_us-gov-east-1 address=52.94.249.112/28
 add list=aws_us-gov-east-1 address=16.66.0.0/16
 add list=aws_us-gov-east-1 address=52.46.96.0/19
 add list=aws_us-gov-east-1 address=54.239.1.64/28
+add list=aws_us-gov-east-1 address=18.99.112.0/20
 add list=aws_us-gov-east-1 address=18.254.0.0/16
 add list=aws_us-gov-east-1 address=3.4.24.0/21
 add list=aws_us-gov-east-1 address=18.252.126.0/25
@@ -37,6 +38,7 @@ add list=aws_us-gov-east-1 address=18.252.0.0/16
 add list=aws_us-gov-east-1 address=99.151.96.0/21
 add list=aws_us-gov-east-1 address=18.253.0.0/16
 add list=aws_us-gov-east-1 address=52.94.249.112/28
+add list=aws_us-gov-east-1 address=18.99.112.0/20
 add list=aws_us-gov-east-1 address=18.254.0.0/16
 add list=aws_us-gov-east-1 address=3.4.24.0/21
 add list=aws_us-gov-east-1 address=18.252.145.168/29

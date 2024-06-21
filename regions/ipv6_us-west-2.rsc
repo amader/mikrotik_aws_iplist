@@ -1,4 +1,4 @@
-# Generated on 2024-06-21, 00:02:02 CET
+# Generated on 2024-06-22, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-west-2_v6 address=2600:1f01:4874::/47
 add list=aws_us-west-2_v6 address=2600:1f1d:8000::/36
@@ -7,12 +7,12 @@ add list=aws_us-west-2_v6 address=2600:1f68:4000::/39
 add list=aws_us-west-2_v6 address=2600:1f22:8000::/36
 add list=aws_us-west-2_v6 address=2600:1ff7:4020::/48
 add list=aws_us-west-2_v6 address=2620:107:4000:a080::/58
+add list=aws_us-west-2_v6 address=2600:1fb8:4000::/39
 add list=aws_us-west-2_v6 address=2600:1ff7:4021::/48
 add list=aws_us-west-2_v6 address=2620:108:7000::/44
 add list=aws_us-west-2_v6 address=2600:f0f0:1:a00::/56
 add list=aws_us-west-2_v6 address=2600:1f2c:4000::/36
 add list=aws_us-west-2_v6 address=2600:f0f0:1:ff00::/56
-add list=aws_us-west-2_v6 address=2600:1ff1:4000::/40
 add list=aws_us-west-2_v6 address=2620:107:4000:4205::/64
 add list=aws_us-west-2_v6 address=2600:f0f0:0:300::/56
 add list=aws_us-west-2_v6 address=2600:1f70:4000::/40
@@ -61,6 +61,7 @@ add list=aws_us-west-2_v6 address=2600:1f2d:8000::/36
 add list=aws_us-west-2_v6 address=2620:107:4000:4209::/64
 add list=aws_us-west-2_v6 address=2600:1ff8:4000::/40
 add list=aws_us-west-2_v6 address=2600:1f13::/36
+add list=aws_us-west-2_v6 address=2600:1ff5:4000::/39
 add list=aws_us-west-2_v6 address=2600:1f24:8000::/36
 add list=aws_us-west-2_v6 address=2620:107:4000:4202::/64
 add list=aws_us-west-2_v6 address=2600:f00c:8000::/39
@@ -86,6 +87,7 @@ add list=aws_us-west-2_v6 address=2600:1f1c:4000::/36
 add list=aws_us-west-2_v6 address=2600:1f69:4000::/39
 add list=aws_us-west-2_v6 address=2600:1fff:3000::/40
 add list=aws_us-west-2_v6 address=2620:107:4004::/48
+add list=aws_us-west-2_v6 address=2600:1ff1:4000::/39
 add list=aws_us-west-2_v6 address=2600:9000:5204::/48
 add list=aws_us-west-2_v6 address=2600:1f2b:8000::/36
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:c000::/56
@@ -124,11 +126,11 @@ add list=aws_us-west-2_v6 address=2605:b140:1000::/48
 add list=aws_us-west-2_v6 address=2600:1f68:4000::/39
 add list=aws_us-west-2_v6 address=2600:1f22:8000::/36
 add list=aws_us-west-2_v6 address=2600:1ff7:4020::/48
+add list=aws_us-west-2_v6 address=2600:1fb8:4000::/39
 add list=aws_us-west-2_v6 address=2600:1ff7:4021::/48
 add list=aws_us-west-2_v6 address=2600:f0f0:1:a00::/56
 add list=aws_us-west-2_v6 address=2600:1f2c:4000::/36
 add list=aws_us-west-2_v6 address=2600:f0f0:1:ff00::/56
-add list=aws_us-west-2_v6 address=2600:1ff1:4000::/40
 add list=aws_us-west-2_v6 address=2600:f0f0:0:300::/56
 add list=aws_us-west-2_v6 address=2600:1f70:4000::/40
 add list=aws_us-west-2_v6 address=2606:7b40:1042::/56
@@ -161,6 +163,7 @@ add list=aws_us-west-2_v6 address=2600:1ffb:4040::/48
 add list=aws_us-west-2_v6 address=2600:f0f0:30e::/48
 add list=aws_us-west-2_v6 address=2600:1f2d:8000::/36
 add list=aws_us-west-2_v6 address=2600:1f13::/36
+add list=aws_us-west-2_v6 address=2600:1ff5:4000::/39
 add list=aws_us-west-2_v6 address=2600:1f24:8000::/36
 add list=aws_us-west-2_v6 address=2600:f00c:8000::/39
 add list=aws_us-west-2_v6 address=2600:1f12:8000::/36
@@ -182,6 +185,7 @@ add list=aws_us-west-2_v6 address=2600:1f1c:4000::/36
 add list=aws_us-west-2_v6 address=2600:1f69:4000::/39
 add list=aws_us-west-2_v6 address=2600:1fff:3000::/40
 add list=aws_us-west-2_v6 address=2620:107:4004::/48
+add list=aws_us-west-2_v6 address=2600:1ff1:4000::/39
 add list=aws_us-west-2_v6 address=2600:9000:5204::/48
 add list=aws_us-west-2_v6 address=2600:1f2b:8000::/36
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:c000::/56
