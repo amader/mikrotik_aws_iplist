@@ -1,4 +1,4 @@
-# Generated on 2024-06-25, 00:02:02 CET
+# Generated on 2024-06-26, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_eu-central-1_v6 address=2600:1ffd:80a7::/48
 add list=aws_eu-central-1_v6 address=2a05:d070:4000::/40
@@ -10,6 +10,7 @@ add list=aws_eu-central-1_v6 address=2620:107:4002::/48
 add list=aws_eu-central-1_v6 address=2a01:578:13::/48
 add list=aws_eu-central-1_v6 address=2a05:d07e:4000::/40
 add list=aws_eu-central-1_v6 address=2a01:578:0:7100::/56
+add list=aws_eu-central-1_v6 address=2600:f002:c000::/40
 add list=aws_eu-central-1_v6 address=2600:1ffd:80e1::/48
 add list=aws_eu-central-1_v6 address=2a05:d035:4000::/40
 add list=aws_eu-central-1_v6 address=2600:f0f0:1:1700::/56
@@ -23,9 +24,11 @@ add list=aws_eu-central-1_v6 address=2a05:d038:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d014::/35
 add list=aws_eu-central-1_v6 address=2600:1ffd:80f0::/48
 add list=aws_eu-central-1_v6 address=2a05:d079:4000::/40
+add list=aws_eu-central-1_v6 address=2606:f40:9800::/40
 add list=aws_eu-central-1_v6 address=2600:1ffd:80d0::/48
 add list=aws_eu-central-1_v6 address=2a05:d034:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d07a:4000::/40
+add list=aws_eu-central-1_v6 address=2606:f40:1800::/40
 add list=aws_eu-central-1_v6 address=2a05:d078:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d071:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d050:4000::/40
@@ -60,6 +63,7 @@ add list=aws_eu-central-1_v6 address=2600:1ffd:80c8::/48
 add list=aws_eu-central-1_v6 address=2600:9000:520b::/48
 add list=aws_eu-central-1_v6 address=2620:107:4002::/48
 add list=aws_eu-central-1_v6 address=2a01:578:13::/48
+add list=aws_eu-central-1_v6 address=2600:f002:c000::/40
 add list=aws_eu-central-1_v6 address=2600:1ffd:80e1::/48
 add list=aws_eu-central-1_v6 address=2a05:d035:4000::/40
 add list=aws_eu-central-1_v6 address=2600:f0f0:1:1700::/56
@@ -70,8 +74,10 @@ add list=aws_eu-central-1_v6 address=2a05:d024::/36
 add list=aws_eu-central-1_v6 address=2a05:d038:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d014::/35
 add list=aws_eu-central-1_v6 address=2600:1ffd:80f0::/48
+add list=aws_eu-central-1_v6 address=2606:f40:9800::/40
 add list=aws_eu-central-1_v6 address=2600:1ffd:80d0::/48
 add list=aws_eu-central-1_v6 address=2a05:d034:4000::/40
+add list=aws_eu-central-1_v6 address=2606:f40:1800::/40
 add list=aws_eu-central-1_v6 address=2a05:d071:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d031:4000::/40
 add list=aws_eu-central-1_v6 address=2a05:d02d::/36
