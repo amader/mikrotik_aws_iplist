@@ -1,4 +1,4 @@
-# Generated on 2024-07-05, 00:02:02 CET
+# Generated on 2024-07-06, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ca-west-1_v6 address=2600:1f70:a400:100::/56
 add list=aws_ca-west-1_v6 address=2600:1f70:a400:200::/56
@@ -19,6 +19,7 @@ add list=aws_ca-west-1_v6 address=2620:107:4000:7c00::/56
 add list=aws_ca-west-1_v6 address=2600:1fa0:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f69:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f1a:4000::/36
+add list=aws_ca-west-1_v6 address=2600:1f38:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f00:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f70:a400::/56
 add list=aws_ca-west-1_v6 address=2600:1ff9:a400::/40
@@ -39,5 +40,6 @@ add list=aws_ca-west-1_v6 address=2600:1fff:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f60:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f69:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f1a:4000::/36
+add list=aws_ca-west-1_v6 address=2600:1f38:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f00:a400::/40
 add list=aws_ca-west-1_v6 address=2600:1f70:a400::/56

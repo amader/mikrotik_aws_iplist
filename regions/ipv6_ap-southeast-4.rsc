@@ -1,4 +1,4 @@
-# Generated on 2024-07-05, 00:02:02 CET
+# Generated on 2024-07-06, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ap-southeast-4_v6 address=2406:da70:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:daf0:f000::/40
@@ -17,6 +17,7 @@ add list=aws_ap-southeast-4_v6 address=2406:da69:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:daff:f000::/40
 add list=aws_ap-southeast-4_v6 address=2400:6500:0:7b00::/56
 add list=aws_ap-southeast-4_v6 address=2406:daa0:f000::/40
+add list=aws_ap-southeast-4_v6 address=2406:da38:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:da68:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:daf0:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:daf8:f000::/40
@@ -34,4 +35,5 @@ add list=aws_ap-southeast-4_v6 address=2406:da1f::/36
 add list=aws_ap-southeast-4_v6 address=2406:daf2:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:da69:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:daff:f000::/40
+add list=aws_ap-southeast-4_v6 address=2406:da38:f000::/40
 add list=aws_ap-southeast-4_v6 address=2406:da68:f000::/40
