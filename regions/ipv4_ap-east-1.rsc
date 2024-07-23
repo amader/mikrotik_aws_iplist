@@ -1,4 +1,4 @@
-# Generated on 2024-07-23, 00:02:02 CET
+# Generated on 2024-07-24, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ap-east-1 address=13.34.11.32/27
 add list=aws_ap-east-1 address=18.99.176.0/20
