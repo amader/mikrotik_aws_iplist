@@ -1,22 +1,14 @@
-# Generated on 2024-07-24, 00:02:02 CET
+# Generated on 2024-07-25, 00:02:02 CET
 /ip firewall address-list
-add list=aws_ca-central-1 address=13.34.78.160/27
 add list=aws_ca-central-1 address=15.230.110.0/24
 add list=aws_ca-central-1 address=13.34.7.224/27
-add list=aws_ca-central-1 address=13.34.107.64/27
-add list=aws_ca-central-1 address=13.34.107.32/27
 add list=aws_ca-central-1 address=52.144.199.128/26
 add list=aws_ca-central-1 address=52.93.45.128/25
 add list=aws_ca-central-1 address=52.93.5.0/24
 add list=aws_ca-central-1 address=52.93.193.200/32
-add list=aws_ca-central-1 address=13.34.85.32/27
-add list=aws_ca-central-1 address=13.34.106.224/27
 add list=aws_ca-central-1 address=52.93.193.199/32
 add list=aws_ca-central-1 address=15.222.0.0/15
-add list=aws_ca-central-1 address=13.34.84.224/27
-add list=aws_ca-central-1 address=13.34.85.128/27
 add list=aws_ca-central-1 address=35.71.119.0/24
-add list=aws_ca-central-1 address=13.34.85.0/27
 add list=aws_ca-central-1 address=52.93.127.196/32
 add list=aws_ca-central-1 address=52.93.193.195/32
 add list=aws_ca-central-1 address=15.230.79.64/26
@@ -29,7 +21,6 @@ add list=aws_ca-central-1 address=15.230.79.0/26
 add list=aws_ca-central-1 address=3.96.0.0/15
 add list=aws_ca-central-1 address=3.5.252.0/22
 add list=aws_ca-central-1 address=16.52.0.0/14
-add list=aws_ca-central-1 address=13.34.107.0/27
 add list=aws_ca-central-1 address=15.230.91.0/24
 add list=aws_ca-central-1 address=52.93.193.198/32
 add list=aws_ca-central-1 address=15.251.0.47/32
@@ -37,12 +28,10 @@ add list=aws_ca-central-1 address=173.83.217.0/24
 add list=aws_ca-central-1 address=15.221.33.0/24
 add list=aws_ca-central-1 address=150.222.43.224/27
 add list=aws_ca-central-1 address=99.151.128.0/21
-add list=aws_ca-central-1 address=13.34.121.0/27
 add list=aws_ca-central-1 address=99.82.174.0/24
 add list=aws_ca-central-1 address=99.79.0.0/16
 add list=aws_ca-central-1 address=150.222.109.0/24
 add list=aws_ca-central-1 address=15.251.0.48/32
-add list=aws_ca-central-1 address=13.34.84.192/27
 add list=aws_ca-central-1 address=52.93.75.0/24
 add list=aws_ca-central-1 address=52.93.193.196/32
 add list=aws_ca-central-1 address=52.93.127.197/32
@@ -58,20 +47,16 @@ add list=aws_ca-central-1 address=136.18.134.0/23
 add list=aws_ca-central-1 address=52.94.14.0/24
 add list=aws_ca-central-1 address=15.230.79.128/26
 add list=aws_ca-central-1 address=52.93.193.202/32
-add list=aws_ca-central-1 address=13.34.107.96/27
 add list=aws_ca-central-1 address=52.60.0.0/16
 add list=aws_ca-central-1 address=52.93.193.192/32
 add list=aws_ca-central-1 address=3.98.0.0/15
 add list=aws_ca-central-1 address=13.34.7.192/27
-add list=aws_ca-central-1 address=13.34.78.128/27
 add list=aws_ca-central-1 address=52.95.146.0/23
 add list=aws_ca-central-1 address=15.177.84.0/24
 add list=aws_ca-central-1 address=150.222.43.160/27
-add list=aws_ca-central-1 address=13.34.106.192/27
 add list=aws_ca-central-1 address=52.93.193.194/32
 add list=aws_ca-central-1 address=52.144.201.64/26
 add list=aws_ca-central-1 address=15.156.0.0/15
-add list=aws_ca-central-1 address=13.34.121.32/27
 add list=aws_ca-central-1 address=52.94.198.128/28
 add list=aws_ca-central-1 address=16.12.4.0/23
 add list=aws_ca-central-1 address=52.93.193.193/32
@@ -83,7 +68,6 @@ add list=aws_ca-central-1 address=52.93.193.203/32
 add list=aws_ca-central-1 address=54.239.1.0/28
 add list=aws_ca-central-1 address=150.222.43.192/27
 add list=aws_ca-central-1 address=161.193.128.0/18
-add list=aws_ca-central-1 address=13.34.85.160/27
 add list=aws_ca-central-1 address=15.193.8.0/24
 add list=aws_ca-central-1 address=99.77.150.0/24
 add list=aws_ca-central-1 address=15.156.212.0/22

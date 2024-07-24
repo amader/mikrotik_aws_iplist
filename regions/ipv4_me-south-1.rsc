@@ -1,19 +1,15 @@
-# Generated on 2024-07-24, 00:02:02 CET
+# Generated on 2024-07-25, 00:02:02 CET
 /ip firewall address-list
 add list=aws_me-south-1 address=15.185.0.0/16
 add list=aws_me-south-1 address=35.71.99.0/24
-add list=aws_me-south-1 address=13.34.125.0/27
 add list=aws_me-south-1 address=15.230.121.2/32
 add list=aws_me-south-1 address=69.107.7.136/29
 add list=aws_me-south-1 address=52.95.174.0/24
 add list=aws_me-south-1 address=52.119.249.0/24
 add list=aws_me-south-1 address=56.186.0.0/16
 add list=aws_me-south-1 address=157.241.0.0/16
-add list=aws_me-south-1 address=13.34.78.224/27
 add list=aws_me-south-1 address=99.82.128.0/20
 add list=aws_me-south-1 address=150.222.45.64/27
-add list=aws_me-south-1 address=13.34.82.0/27
-add list=aws_me-south-1 address=13.34.82.32/27
 add list=aws_me-south-1 address=99.77.147.0/24
 add list=aws_me-south-1 address=99.77.236.0/24
 add list=aws_me-south-1 address=99.82.144.0/21
@@ -32,7 +28,6 @@ add list=aws_me-south-1 address=56.184.0.0/16
 add list=aws_me-south-1 address=15.230.121.3/32
 add list=aws_me-south-1 address=15.230.69.128/26
 add list=aws_me-south-1 address=15.230.121.6/31
-add list=aws_me-south-1 address=13.34.125.32/27
 add list=aws_me-south-1 address=16.25.0.0/16
 add list=aws_me-south-1 address=3.5.220.0/22
 add list=aws_me-south-1 address=13.248.106.0/24
@@ -55,7 +50,6 @@ add list=aws_me-south-1 address=150.222.7.0/24
 add list=aws_me-south-1 address=15.177.87.0/24
 add list=aws_me-south-1 address=54.239.1.112/28
 add list=aws_me-south-1 address=15.230.121.0/31
-add list=aws_me-south-1 address=13.34.78.192/27
 add list=aws_me-south-1 address=56.185.0.0/16
 add list=aws_me-south-1 address=15.220.160.0/21
 add list=aws_me-south-1 address=15.184.1.128/26

@@ -1,4 +1,4 @@
-# Generated on 2024-07-24, 00:02:02 CET
+# Generated on 2024-07-25, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_cn-north-1_v6 address=2400:7fc0:2600::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:2f00::/40
@@ -9,6 +9,7 @@ add list=aws_cn-north-1_v6 address=2400:7fc0:2800::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:2a00::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:4000::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:2e80::/48
+add list=aws_cn-north-1_v6 address=2400:7fc0:a000::/36
 add list=aws_cn-north-1_v6 address=2400:7fc0:200::/40
 add list=aws_cn-north-1_v6 address=240f:80a0:8000::/40
 add list=aws_cn-north-1_v6 address=240f:80ff:8000::/40
@@ -42,6 +43,7 @@ add list=aws_cn-north-1_v6 address=2400:7fc0:2c00::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:2f00::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:2100::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:4000::/40
+add list=aws_cn-north-1_v6 address=2400:7fc0:a000::/36
 add list=aws_cn-north-1_v6 address=240f:80ff:8000::/40
 add list=aws_cn-north-1_v6 address=240f:8000:8000::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:c000::/36

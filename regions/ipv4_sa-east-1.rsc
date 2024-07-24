@@ -1,4 +1,4 @@
-# Generated on 2024-07-24, 00:02:02 CET
+# Generated on 2024-07-25, 00:02:02 CET
 /ip firewall address-list
 add list=aws_sa-east-1 address=13.34.15.233/32
 add list=aws_sa-east-1 address=64.252.81.0/24
@@ -6,10 +6,7 @@ add list=aws_sa-east-1 address=150.222.228.0/24
 add list=aws_sa-east-1 address=52.94.198.16/28
 add list=aws_sa-east-1 address=13.34.15.196/32
 add list=aws_sa-east-1 address=52.93.122.203/32
-add list=aws_sa-east-1 address=13.34.74.64/27
-add list=aws_sa-east-1 address=13.34.88.0/27
 add list=aws_sa-east-1 address=99.77.149.0/24
-add list=aws_sa-east-1 address=13.34.71.224/27
 add list=aws_sa-east-1 address=15.230.0.12/31
 add list=aws_sa-east-1 address=64.252.79.0/24
 add list=aws_sa-east-1 address=52.93.126.235/32
@@ -28,14 +25,10 @@ add list=aws_sa-east-1 address=18.96.64.0/19
 add list=aws_sa-east-1 address=18.229.0.0/16
 add list=aws_sa-east-1 address=15.230.0.6/31
 add list=aws_sa-east-1 address=18.230.0.0/16
-add list=aws_sa-east-1 address=13.34.74.32/27
-add list=aws_sa-east-1 address=13.34.74.96/27
 add list=aws_sa-east-1 address=15.230.73.128/26
 add list=aws_sa-east-1 address=52.93.122.202/32
 add list=aws_sa-east-1 address=15.230.197.0/24
-add list=aws_sa-east-1 address=13.34.81.64/27
 add list=aws_sa-east-1 address=52.93.151.0/24
-add list=aws_sa-east-1 address=13.34.42.192/27
 add list=aws_sa-east-1 address=56.124.128.0/17
 add list=aws_sa-east-1 address=15.230.63.2/31
 add list=aws_sa-east-1 address=150.222.69.0/24
@@ -45,26 +38,19 @@ add list=aws_sa-east-1 address=13.34.15.194/32
 add list=aws_sa-east-1 address=13.34.15.229/32
 add list=aws_sa-east-1 address=99.77.234.0/24
 add list=aws_sa-east-1 address=13.34.15.200/32
-add list=aws_sa-east-1 address=13.34.31.160/27
 add list=aws_sa-east-1 address=56.124.0.0/17
 add list=aws_sa-east-1 address=16.12.2.0/24
-add list=aws_sa-east-1 address=13.34.84.32/27
 add list=aws_sa-east-1 address=150.222.1.0/24
 add list=aws_sa-east-1 address=151.148.18.0/24
 add list=aws_sa-east-1 address=99.151.112.0/21
 add list=aws_sa-east-1 address=99.82.164.0/24
-add list=aws_sa-east-1 address=13.34.88.32/27
 add list=aws_sa-east-1 address=64.252.78.0/24
 add list=aws_sa-east-1 address=52.93.127.70/32
-add list=aws_sa-east-1 address=13.34.47.224/27
 add list=aws_sa-east-1 address=13.34.15.226/32
 add list=aws_sa-east-1 address=13.34.15.207/32
-add list=aws_sa-east-1 address=13.34.63.96/27
 add list=aws_sa-east-1 address=150.222.9.0/24
 add list=aws_sa-east-1 address=52.93.127.161/32
-add list=aws_sa-east-1 address=13.34.29.0/27
 add list=aws_sa-east-1 address=15.251.0.20/32
-add list=aws_sa-east-1 address=13.34.81.96/27
 add list=aws_sa-east-1 address=13.34.15.195/32
 add list=aws_sa-east-1 address=15.230.250.0/24
 add list=aws_sa-east-1 address=173.83.213.0/24
@@ -82,7 +68,6 @@ add list=aws_sa-east-1 address=54.94.0.0/16
 add list=aws_sa-east-1 address=52.93.126.234/32
 add list=aws_sa-east-1 address=52.95.164.0/23
 add list=aws_sa-east-1 address=13.34.14.224/27
-add list=aws_sa-east-1 address=13.34.74.0/27
 add list=aws_sa-east-1 address=13.34.14.192/27
 add list=aws_sa-east-1 address=15.177.70.0/23
 add list=aws_sa-east-1 address=150.222.12.0/24
@@ -97,19 +82,15 @@ add list=aws_sa-east-1 address=15.230.63.10/31
 add list=aws_sa-east-1 address=15.251.0.21/32
 add list=aws_sa-east-1 address=15.230.63.6/32
 add list=aws_sa-east-1 address=52.93.127.71/32
-add list=aws_sa-east-1 address=13.34.47.192/27
 add list=aws_sa-east-1 address=15.230.63.0/31
-add list=aws_sa-east-1 address=13.34.63.64/27
 add list=aws_sa-east-1 address=13.34.15.203/32
 add list=aws_sa-east-1 address=52.93.126.206/32
-add list=aws_sa-east-1 address=13.34.42.224/27
 add list=aws_sa-east-1 address=69.107.7.112/29
 add list=aws_sa-east-1 address=150.222.44.128/27
 add list=aws_sa-east-1 address=54.20.0.0/15
 add list=aws_sa-east-1 address=54.232.0.0/16
 add list=aws_sa-east-1 address=15.230.0.14/32
 add list=aws_sa-east-1 address=54.239.0.64/28
-add list=aws_sa-east-1 address=13.34.71.192/27
 add list=aws_sa-east-1 address=13.34.15.230/32
 add list=aws_sa-east-1 address=54.240.244.0/22
 add list=aws_sa-east-1 address=15.251.0.23/32
@@ -118,7 +99,6 @@ add list=aws_sa-east-1 address=15.221.132.0/22
 add list=aws_sa-east-1 address=150.222.28.0/24
 add list=aws_sa-east-1 address=52.93.127.160/32
 add list=aws_sa-east-1 address=52.94.7.0/24
-add list=aws_sa-east-1 address=13.34.29.32/27
 add list=aws_sa-east-1 address=136.18.19.0/24
 add list=aws_sa-east-1 address=13.34.15.231/32
 add list=aws_sa-east-1 address=15.230.0.8/31
@@ -155,10 +135,7 @@ add list=aws_sa-east-1 address=52.46.172.0/22
 add list=aws_sa-east-1 address=13.248.104.0/24
 add list=aws_sa-east-1 address=52.94.148.0/22
 add list=aws_sa-east-1 address=15.230.73.64/26
-add list=aws_sa-east-1 address=13.34.31.128/27
 add list=aws_sa-east-1 address=13.34.15.225/32
-add list=aws_sa-east-1 address=13.34.27.96/27
-add list=aws_sa-east-1 address=13.34.27.128/27
 add list=aws_sa-east-1 address=52.95.255.0/28
 add list=aws_sa-east-1 address=150.222.51.32/27
 add list=aws_sa-east-1 address=13.34.15.235/32
@@ -170,7 +147,6 @@ add list=aws_sa-east-1 address=15.220.112.0/21
 add list=aws_sa-east-1 address=15.230.94.0/24
 add list=aws_sa-east-1 address=150.222.51.0/27
 add list=aws_sa-east-1 address=69.107.7.120/29
-add list=aws_sa-east-1 address=13.34.84.0/27
 add list=aws_sa-east-1 address=177.71.128.0/17
 add list=aws_sa-east-1 address=15.228.1.128/26
 add list=aws_sa-east-1 address=15.228.1.192/26
