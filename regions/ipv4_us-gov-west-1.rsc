@@ -1,4 +1,4 @@
-# Generated on 2024-07-28, 00:02:03 CET
+# Generated on 2024-07-29, 00:02:02 CET
 /ip firewall address-list
 add list=aws_us-gov-west-1 address=52.119.208.0/23
 add list=aws_us-gov-west-1 address=15.205.0.0/16
