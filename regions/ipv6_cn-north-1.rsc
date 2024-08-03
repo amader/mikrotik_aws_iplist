@@ -1,4 +1,4 @@
-# Generated on 2024-08-03, 00:02:02 CET
+# Generated on 2024-08-04, 00:02:03 CET
 /ipv6 firewall address-list
 add list=aws_cn-north-1_v6 address=2400:7fc0:2600::/40
 add list=aws_cn-north-1_v6 address=2400:7fc0:2f00::/40
