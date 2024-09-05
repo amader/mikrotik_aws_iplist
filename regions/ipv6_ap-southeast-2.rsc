@@ -1,4 +1,4 @@
-# Generated on 2024-09-05, 00:02:01 CET
+# Generated on 2024-09-06, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ap-southeast-2_v6 address=2406:dab8:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:dafe:c000::/40
@@ -10,6 +10,7 @@ add list=aws_ap-southeast-2_v6 address=2406:da60:c000::/40
 add list=aws_ap-southeast-2_v6 address=2400:6500:0:7200::/56
 add list=aws_ap-southeast-2_v6 address=2406:daf4:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:dab9:c000::/40
+add list=aws_ap-southeast-2_v6 address=2406:da36:c000::/40
 add list=aws_ap-southeast-2_v6 address=2600:1ffd:85e8::/48
 add list=aws_ap-southeast-2_v6 address=2406:daf1:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:daf7:c000::/40
@@ -24,6 +25,7 @@ add list=aws_ap-southeast-2_v6 address=2600:f0f0:83::/48
 add list=aws_ap-southeast-2_v6 address=2406:da38:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:daff:c000::/40
 add list=aws_ap-southeast-2_v6 address=2403:b300:ff00::/48
+add list=aws_ap-southeast-2_v6 address=2406:da32:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:dafa:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:da00:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:da69:c000::/40
@@ -53,6 +55,7 @@ add list=aws_ap-southeast-2_v6 address=2406:da2c::/36
 add list=aws_ap-southeast-2_v6 address=2406:da60:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:daf4:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:dab9:c000::/40
+add list=aws_ap-southeast-2_v6 address=2406:da36:c000::/40
 add list=aws_ap-southeast-2_v6 address=2600:1ffd:85e8::/48
 add list=aws_ap-southeast-2_v6 address=2406:daf1:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:daf7:c000::/40
@@ -65,6 +68,7 @@ add list=aws_ap-southeast-2_v6 address=2600:f0f0:83::/48
 add list=aws_ap-southeast-2_v6 address=2406:da38:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:daff:c000::/40
 add list=aws_ap-southeast-2_v6 address=2403:b300:ff00::/48
+add list=aws_ap-southeast-2_v6 address=2406:da32:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:da00:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:da69:c000::/40
 add list=aws_ap-southeast-2_v6 address=2406:daf5:c000::/40

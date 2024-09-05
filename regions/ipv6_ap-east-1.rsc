@@ -1,4 +1,4 @@
-# Generated on 2024-09-05, 00:02:01 CET
+# Generated on 2024-09-06, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ap-east-1_v6 address=2406:dab8:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf8:e000::/40
@@ -6,6 +6,7 @@ add list=aws_ap-east-1_v6 address=2406:dafe:e000::/40
 add list=aws_ap-east-1_v6 address=2406:dafc:e000::/40
 add list=aws_ap-east-1_v6 address=2406:dafb:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da61:e000::/40
+add list=aws_ap-east-1_v6 address=2406:da32:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da69:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da70:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da1e::/32
@@ -25,6 +26,7 @@ add list=aws_ap-east-1_v6 address=2406:daf5:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf2:e000::/40
 add list=aws_ap-east-1_v6 address=2406:dafa:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da68:e000::/40
+add list=aws_ap-east-1_v6 address=2406:da36:e000::/40
 add list=aws_ap-east-1_v6 address=2600:1f01:4814::/47
 add list=aws_ap-east-1_v6 address=2400:6500:0:7300::/56
 add list=aws_ap-east-1_v6 address=2406:da70:e000:100::/56
@@ -40,6 +42,7 @@ add list=aws_ap-east-1_v6 address=2406:da68:e000::/40
 add list=aws_ap-east-1_v6 address=2406:dab8:e000::/40
 add list=aws_ap-east-1_v6 address=2406:dafb:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da61:e000::/40
+add list=aws_ap-east-1_v6 address=2406:da32:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da69:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da70:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da1e::/32
@@ -56,4 +59,5 @@ add list=aws_ap-east-1_v6 address=2406:daf0:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf5:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf2:e000::/40
 add list=aws_ap-east-1_v6 address=2406:da68:e000::/40
+add list=aws_ap-east-1_v6 address=2406:da36:e000::/40
 add list=aws_ap-east-1_v6 address=2600:1f01:4814::/47

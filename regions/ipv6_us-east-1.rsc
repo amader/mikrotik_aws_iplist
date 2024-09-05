@@ -1,4 +1,4 @@
-# Generated on 2024-09-05, 00:02:01 CET
+# Generated on 2024-09-06, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-east-1_v6 address=2600:1ff9:81d0::/46
 add list=aws_us-east-1_v6 address=2600:f0f0:2::/48
@@ -12,6 +12,7 @@ add list=aws_us-east-1_v6 address=2600:1ffe:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:f00:400::/56
 add list=aws_us-east-1_v6 address=2620:107:4000:9002::/64
 add list=aws_us-east-1_v6 address=2600:f0f0:1:fd00::/56
+add list=aws_us-east-1_v6 address=2600:1f36:8000::/39
 add list=aws_us-east-1_v6 address=2600:1f10:c000::/36
 add list=aws_us-east-1_v6 address=2620:107:4000:9016::/64
 add list=aws_us-east-1_v6 address=2600:1f25:4000::/36
@@ -105,6 +106,7 @@ add list=aws_us-east-1_v6 address=2600:1ff9:81e0::/46
 add list=aws_us-east-1_v6 address=2600:1ff8:8000::/40
 add list=aws_us-east-1_v6 address=2620:107:4000:8002::/64
 add list=aws_us-east-1_v6 address=2600:1f17:8000::/36
+add list=aws_us-east-1_v6 address=2600:1f32:8000::/39
 add list=aws_us-east-1_v6 address=2600:1ff9:8000::/40
 add list=aws_us-east-1_v6 address=2600:1ffb:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:0:214::/62
@@ -171,6 +173,7 @@ add list=aws_us-east-1_v6 address=2600:1f11:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f69:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:f00:400::/56
 add list=aws_us-east-1_v6 address=2600:f0f0:1:fd00::/56
+add list=aws_us-east-1_v6 address=2600:1f36:8000::/39
 add list=aws_us-east-1_v6 address=2600:1f10:c000::/36
 add list=aws_us-east-1_v6 address=2600:1f25:4000::/36
 add list=aws_us-east-1_v6 address=2600:1ff1:8000::/39
@@ -236,6 +239,7 @@ add list=aws_us-east-1_v6 address=2600:1f15:4000::/36
 add list=aws_us-east-1_v6 address=2600:1f2c:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f15:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f17:8000::/36
+add list=aws_us-east-1_v6 address=2600:1f32:8000::/39
 add list=aws_us-east-1_v6 address=2600:1ffb:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:0:214::/62
 add list=aws_us-east-1_v6 address=2620:107:3002::/64

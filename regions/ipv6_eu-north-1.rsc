@@ -1,4 +1,4 @@
-# Generated on 2024-09-05, 00:02:01 CET
+# Generated on 2024-09-06, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_eu-north-1_v6 address=2a05:d071:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d07a:6000::/40
@@ -7,6 +7,7 @@ add list=aws_eu-north-1_v6 address=2a05:d026::/36
 add list=aws_eu-north-1_v6 address=2a01:578:0:7500::1/128
 add list=aws_eu-north-1_v6 address=2a05:d076:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d016::/36
+add list=aws_eu-north-1_v6 address=2a05:d032:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d031:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d058:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d03a:6000::/40
@@ -23,6 +24,7 @@ add list=aws_eu-north-1_v6 address=2a05:d074:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d030:6000::/40
 add list=aws_eu-north-1_v6 address=2a01:578:0:7502::1/128
 add list=aws_eu-north-1_v6 address=2a05:d075:6000::/40
+add list=aws_eu-north-1_v6 address=2a05:d036:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d077:6000::/40
 add list=aws_eu-north-1_v6 address=2600:1f01:48d0::/47
 add list=aws_eu-north-1_v6 address=2a05:d034:6000::/40
@@ -44,6 +46,7 @@ add list=aws_eu-north-1_v6 address=2a05:d071:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d026::/36
 add list=aws_eu-north-1_v6 address=2a05:d076:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d016::/36
+add list=aws_eu-north-1_v6 address=2a05:d032:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d031:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d058:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d03a:6000::/40
@@ -56,6 +59,7 @@ add list=aws_eu-north-1_v6 address=2a05:d070:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d074:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d030:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d075:6000::/40
+add list=aws_eu-north-1_v6 address=2a05:d036:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d077:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d034:6000::/40
 add list=aws_eu-north-1_v6 address=2a05:d000:6000::/40
