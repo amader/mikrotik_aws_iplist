@@ -1,4 +1,4 @@
-# Generated on 2024-09-10, 00:02:01 CET
+# Generated on 2024-09-11, 00:02:01 CET
 /ip firewall address-list
 add list=aws_eusc-de-east-1 address=51.0.16.0/21
 add list=aws_eusc-de-east-1 address=51.0.128.0/21
