@@ -1,4 +1,4 @@
-# Generated on 2024-09-12, 00:02:02 CET
+# Generated on 2024-09-13, 00:02:01 CET
 /ipv6 firewall address-list
 add list=aws_eu-south-1_v6 address=2a05:d07a:a000::/40
 add list=aws_eu-south-1_v6 address=2a05:d07c:a000::/40
@@ -59,3 +59,4 @@ add list=aws_eu-south-1_v6 address=2a05:d07f:a000::/40
 add list=aws_eu-south-1_v6 address=2a05:d071:a000::/40
 add list=aws_eu-south-1_v6 address=2a05:d075:a000::/40
 add list=aws_eu-south-1_v6 address=2a05:d034:a000::/40
+add list=aws_eu-south-1_v6 address=2a05:d01a:c03:4a00::/56

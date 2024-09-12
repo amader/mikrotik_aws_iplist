@@ -1,4 +1,4 @@
-# Generated on 2024-09-12, 00:02:02 CET
+# Generated on 2024-09-13, 00:02:01 CET
 /ipv6 firewall address-list
 add list=aws_af-south-1_v6 address=2406:da61:1000::/40
 add list=aws_af-south-1_v6 address=2406:dafe:1000::/40
@@ -57,3 +57,4 @@ add list=aws_af-south-1_v6 address=2406:da70:1000::/40
 add list=aws_af-south-1_v6 address=2406:daf2:1000::/40
 add list=aws_af-south-1_v6 address=2406:da36:1000::/40
 add list=aws_af-south-1_v6 address=2406:da68:1000::/40
+add list=aws_af-south-1_v6 address=2406:da11:700:3b00::/56
