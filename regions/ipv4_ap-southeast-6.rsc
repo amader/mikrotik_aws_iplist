@@ -1,4 +1,4 @@
-# Generated on 2024-09-13, 00:02:01 CET
+# Generated on 2024-09-14, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ap-southeast-6 address=23.254.8.0/22
 add list=aws_ap-southeast-6 address=15.190.128.0/20
