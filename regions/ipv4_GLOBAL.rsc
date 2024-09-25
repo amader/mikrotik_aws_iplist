@@ -1,4 +1,4 @@
-# Generated on 2024-09-25, 00:02:01 CET
+# Generated on 2024-09-26, 00:02:02 CET
 /ip firewall address-list
 add list=aws_GLOBAL address=120.52.22.96/27
 add list=aws_GLOBAL address=205.251.249.0/24
@@ -98,6 +98,7 @@ add list=aws_GLOBAL address=52.82.128.0/19
 add list=aws_GLOBAL address=75.2.0.0/17
 add list=aws_GLOBAL address=54.230.0.0/17
 add list=aws_GLOBAL address=54.230.128.0/18
+add list=aws_GLOBAL address=93.77.128.0/19
 add list=aws_GLOBAL address=54.239.128.0/18
 add list=aws_GLOBAL address=130.176.224.0/20
 add list=aws_GLOBAL address=36.103.232.128/26
@@ -332,6 +333,7 @@ add list=aws_GLOBAL address=15.197.128.0/17
 add list=aws_GLOBAL address=3.3.6.0/23
 add list=aws_GLOBAL address=13.248.128.0/17
 add list=aws_GLOBAL address=75.2.0.0/17
+add list=aws_GLOBAL address=93.77.128.0/19
 add list=aws_GLOBAL address=99.77.190.0/24
 add list=aws_GLOBAL address=15.197.2.0/24
 add list=aws_GLOBAL address=99.83.128.0/17
