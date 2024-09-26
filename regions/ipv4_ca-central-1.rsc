@@ -1,4 +1,4 @@
-# Generated on 2024-09-26, 00:02:02 CET
+# Generated on 2024-09-27, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ca-central-1 address=15.230.110.0/24
 add list=aws_ca-central-1 address=52.144.199.128/26
