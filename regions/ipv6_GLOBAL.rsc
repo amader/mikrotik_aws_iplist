@@ -1,4 +1,4 @@
-# Generated on 2024-09-27, 00:02:02 CET
+# Generated on 2024-09-28, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_GLOBAL_v6 address=2600:9000:3000::/36
 add list=aws_GLOBAL_v6 address=2600:9000:f600::/39
@@ -20,7 +20,6 @@ add list=aws_GLOBAL_v6 address=2620:107:4008::/45
 add list=aws_GLOBAL_v6 address=2600:9000:aa00::/40
 add list=aws_GLOBAL_v6 address=2620:107:3001::/48
 add list=aws_GLOBAL_v6 address=2600:9000:f538::/45
-add list=aws_GLOBAL_v6 address=2402:2a80::/32
 add list=aws_GLOBAL_v6 address=2600:f0f2:7000::/44
 add list=aws_GLOBAL_v6 address=2600:9000:5380::/41
 add list=aws_GLOBAL_v6 address=2600:9000:1000::/36
@@ -64,7 +63,6 @@ add list=aws_GLOBAL_v6 address=2600:9000:a104::/48
 add list=aws_GLOBAL_v6 address=2600:9000:a311::/48
 add list=aws_GLOBAL_v6 address=2600:9000:a210::/48
 add list=aws_GLOBAL_v6 address=2600:9000:a105::/48
-add list=aws_GLOBAL_v6 address=2402:2a80::/32
 add list=aws_GLOBAL_v6 address=2605:9cc0:1ff0:8200::/56
 add list=aws_GLOBAL_v6 address=2605:9cc0:1ff0:1000::/52
 add list=aws_GLOBAL_v6 address=2605:9cc0:1ff0:4000::/54
