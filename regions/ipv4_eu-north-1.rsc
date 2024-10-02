@@ -1,4 +1,4 @@
-# Generated on 2024-10-02, 00:02:01 CET
+# Generated on 2024-10-03, 00:02:02 CET
 /ip firewall address-list
 add list=aws_eu-north-1 address=52.46.220.0/22
 add list=aws_eu-north-1 address=15.230.68.192/26
@@ -30,6 +30,7 @@ add list=aws_eu-north-1 address=150.222.41.192/26
 add list=aws_eu-north-1 address=56.231.0.0/16
 add list=aws_eu-north-1 address=13.53.0.0/16
 add list=aws_eu-north-1 address=13.51.0.0/16
+add list=aws_eu-north-1 address=5.60.204.0/22
 add list=aws_eu-north-1 address=52.144.215.202/31
 add list=aws_eu-north-1 address=173.83.220.0/24
 add list=aws_eu-north-1 address=13.48.0.0/15
@@ -54,6 +55,7 @@ add list=aws_eu-north-1 address=15.230.116.0/24
 add list=aws_eu-north-1 address=15.248.32.0/22
 add list=aws_eu-north-1 address=56.228.0.0/16
 add list=aws_eu-north-1 address=56.230.0.0/16
+add list=aws_eu-north-1 address=5.60.208.0/22
 add list=aws_eu-north-1 address=52.93.127.153/32
 add list=aws_eu-north-1 address=52.144.215.198/31
 add list=aws_eu-north-1 address=150.222.118.0/24
@@ -104,6 +106,7 @@ add list=aws_eu-north-1 address=16.168.0.0/15
 add list=aws_eu-north-1 address=63.246.112.0/24
 add list=aws_eu-north-1 address=13.53.0.0/16
 add list=aws_eu-north-1 address=13.51.0.0/16
+add list=aws_eu-north-1 address=5.60.204.0/22
 add list=aws_eu-north-1 address=173.83.220.0/24
 add list=aws_eu-north-1 address=13.48.0.0/15
 add list=aws_eu-north-1 address=18.99.96.0/20
@@ -113,6 +116,7 @@ add list=aws_eu-north-1 address=16.16.0.0/16
 add list=aws_eu-north-1 address=15.177.72.0/24
 add list=aws_eu-north-1 address=15.220.148.0/22
 add list=aws_eu-north-1 address=56.228.0.0/16
+add list=aws_eu-north-1 address=5.60.208.0/22
 add list=aws_eu-north-1 address=204.87.185.0/24
 add list=aws_eu-north-1 address=52.94.249.128/28
 add list=aws_eu-north-1 address=99.77.246.0/24
