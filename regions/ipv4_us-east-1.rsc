@@ -1,4 +1,4 @@
-# Generated on 2024-10-17, 00:02:02 CET
+# Generated on 2024-10-18, 00:02:02 CET
 /ip firewall address-list
 add list=aws_us-east-1 address=15.230.221.0/24
 add list=aws_us-east-1 address=52.94.152.9/32
@@ -84,6 +84,7 @@ add list=aws_us-east-1 address=64.187.128.0/20
 add list=aws_us-east-1 address=99.82.188.0/22
 add list=aws_us-east-1 address=15.230.18.0/24
 add list=aws_us-east-1 address=52.93.127.201/32
+add list=aws_us-east-1 address=64.252.125.0/24
 add list=aws_us-east-1 address=150.222.79.0/24
 add list=aws_us-east-1 address=3.224.0.0/12
 add list=aws_us-east-1 address=52.144.192.192/26
@@ -657,6 +658,7 @@ add list=aws_us-east-1 address=54.226.0.0/15
 add list=aws_us-east-1 address=161.188.120.0/22
 add list=aws_us-east-1 address=162.250.237.0/24
 add list=aws_us-east-1 address=64.187.128.0/20
+add list=aws_us-east-1 address=64.252.125.0/24
 add list=aws_us-east-1 address=3.224.0.0/12
 add list=aws_us-east-1 address=54.221.0.0/16
 add list=aws_us-east-1 address=15.181.112.0/22
