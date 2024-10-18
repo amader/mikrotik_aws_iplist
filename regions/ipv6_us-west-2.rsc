@@ -1,4 +1,4 @@
-# Generated on 2024-10-18, 00:02:02 CET
+# Generated on 2024-10-19, 00:02:01 CET
 /ipv6 firewall address-list
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:d200::/60
 add list=aws_us-west-2_v6 address=2600:1f01:4874::/47
@@ -13,6 +13,7 @@ add list=aws_us-west-2_v6 address=2606:7b40:1000:7220::/60
 add list=aws_us-west-2_v6 address=2600:f0f0:1:a00::/56
 add list=aws_us-west-2_v6 address=2600:1f2c:4000::/36
 add list=aws_us-west-2_v6 address=2600:f0f0:1:ff00::/56
+add list=aws_us-west-2_v6 address=2606:7b40:1b0f:c000::/56
 add list=aws_us-west-2_v6 address=2620:107:4000:4205::/64
 add list=aws_us-west-2_v6 address=2600:f0f0:0:300::/56
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:7270::/60
@@ -59,6 +60,7 @@ add list=aws_us-west-2_v6 address=2600:1ff7:4020::/46
 add list=aws_us-west-2_v6 address=2606:f40:400::/39
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:a220::/60
 add list=aws_us-west-2_v6 address=2606:7b40:1000:8000::/56
+add list=aws_us-west-2_v6 address=2602:f7db::/44
 add list=aws_us-west-2_v6 address=2606:7b40:1800::/48
 add list=aws_us-west-2_v6 address=2600:1f14:8000::/36
 add list=aws_us-west-2_v6 address=2606:7b40:1000:2000::/56
@@ -172,6 +174,7 @@ add list=aws_us-west-2_v6 address=2606:7b40:1000:7220::/60
 add list=aws_us-west-2_v6 address=2600:f0f0:1:a00::/56
 add list=aws_us-west-2_v6 address=2600:1f2c:4000::/36
 add list=aws_us-west-2_v6 address=2600:f0f0:1:ff00::/56
+add list=aws_us-west-2_v6 address=2606:7b40:1b0f:c000::/56
 add list=aws_us-west-2_v6 address=2600:f0f0:0:300::/56
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:7270::/60
 add list=aws_us-west-2_v6 address=2606:7b40:1042::/56
@@ -208,6 +211,7 @@ add list=aws_us-west-2_v6 address=2600:1ff7:4020::/46
 add list=aws_us-west-2_v6 address=2606:f40:400::/39
 add list=aws_us-west-2_v6 address=2606:7b40:10ff:a220::/60
 add list=aws_us-west-2_v6 address=2606:7b40:1000:8000::/56
+add list=aws_us-west-2_v6 address=2602:f7db::/44
 add list=aws_us-west-2_v6 address=2606:7b40:1800::/48
 add list=aws_us-west-2_v6 address=2600:1f14:8000::/36
 add list=aws_us-west-2_v6 address=2606:7b40:1000:2000::/56
