@@ -1,4 +1,4 @@
-# Generated on 2024-10-25, 00:02:01 CET
+# Generated on 2024-10-26, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-east-1_v6 address=2600:1ff9:81d0::/46
 add list=aws_us-east-1_v6 address=2600:f0f0:2::/48
@@ -12,6 +12,7 @@ add list=aws_us-east-1_v6 address=2600:1ffe:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:f00:400::/56
 add list=aws_us-east-1_v6 address=2620:107:4000:9002::/64
 add list=aws_us-east-1_v6 address=2600:f0f0:1:fd00::/56
+add list=aws_us-east-1_v6 address=2600:f0f3:ce00::/42
 add list=aws_us-east-1_v6 address=2600:1f36:8000::/39
 add list=aws_us-east-1_v6 address=2600:1f10:c000::/36
 add list=aws_us-east-1_v6 address=2600:f0f0:500::/48
@@ -50,7 +51,6 @@ add list=aws_us-east-1_v6 address=2600:1ff4:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:1000::/44
 add list=aws_us-east-1_v6 address=2600:1ffd:807b::/48
 add list=aws_us-east-1_v6 address=2600:f0f0:5503::/48
-add list=aws_us-east-1_v6 address=2602:f7db:10::/44
 add list=aws_us-east-1_v6 address=2620:107:4000:8001::/64
 add list=aws_us-east-1_v6 address=2600:1ff9:8140::/46
 add list=aws_us-east-1_v6 address=2600:9000:5203::/48
@@ -108,6 +108,7 @@ add list=aws_us-east-1_v6 address=2600:1f15:8000::/36
 add list=aws_us-east-1_v6 address=2600:1ff9:81e0::/46
 add list=aws_us-east-1_v6 address=2600:1ff8:8000::/40
 add list=aws_us-east-1_v6 address=2620:107:4000:8002::/64
+add list=aws_us-east-1_v6 address=2600:f0f3:ce40::/42
 add list=aws_us-east-1_v6 address=2600:1f17:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f32:8000::/39
 add list=aws_us-east-1_v6 address=2600:1ff9:8000::/40
@@ -177,6 +178,7 @@ add list=aws_us-east-1_v6 address=2600:1f11:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f69:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:f00:400::/56
 add list=aws_us-east-1_v6 address=2600:f0f0:1:fd00::/56
+add list=aws_us-east-1_v6 address=2600:f0f3:ce00::/42
 add list=aws_us-east-1_v6 address=2600:1f36:8000::/39
 add list=aws_us-east-1_v6 address=2600:1f10:c000::/36
 add list=aws_us-east-1_v6 address=2600:f0f0:500::/48
@@ -201,7 +203,6 @@ add list=aws_us-east-1_v6 address=2600:1ff4:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:1000::/44
 add list=aws_us-east-1_v6 address=2600:1ffd:807b::/48
 add list=aws_us-east-1_v6 address=2600:f0f0:5503::/48
-add list=aws_us-east-1_v6 address=2602:f7db:10::/44
 add list=aws_us-east-1_v6 address=2600:9000:5203::/48
 add list=aws_us-east-1_v6 address=2600:9000:5210::/48
 add list=aws_us-east-1_v6 address=2600:1ff0:8000::/39
@@ -245,6 +246,7 @@ add list=aws_us-east-1_v6 address=2600:1f15:4000::/36
 add list=aws_us-east-1_v6 address=2600:1f1c:c000::/36
 add list=aws_us-east-1_v6 address=2600:1f2c:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f15:8000::/36
+add list=aws_us-east-1_v6 address=2600:f0f3:ce40::/42
 add list=aws_us-east-1_v6 address=2600:1f17:8000::/36
 add list=aws_us-east-1_v6 address=2600:1f32:8000::/39
 add list=aws_us-east-1_v6 address=2600:1ffb:8000::/39
