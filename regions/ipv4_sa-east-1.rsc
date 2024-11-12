@@ -1,4 +1,4 @@
-# Generated on 2024-11-12, 00:02:02 CET
+# Generated on 2024-11-13, 00:02:01 CET
 /ip firewall address-list
 add list=aws_sa-east-1 address=64.252.81.0/24
 add list=aws_sa-east-1 address=150.222.228.0/24
@@ -8,6 +8,7 @@ add list=aws_sa-east-1 address=99.77.149.0/24
 add list=aws_sa-east-1 address=15.230.0.12/31
 add list=aws_sa-east-1 address=64.252.79.0/24
 add list=aws_sa-east-1 address=52.93.126.235/32
+add list=aws_sa-east-1 address=3.4.12.49/32
 add list=aws_sa-east-1 address=52.95.240.0/24
 add list=aws_sa-east-1 address=52.93.146.0/24
 add list=aws_sa-east-1 address=18.231.0.0/16
@@ -67,6 +68,7 @@ add list=aws_sa-east-1 address=15.230.63.6/32
 add list=aws_sa-east-1 address=52.93.127.71/32
 add list=aws_sa-east-1 address=15.230.63.0/31
 add list=aws_sa-east-1 address=52.93.126.206/32
+add list=aws_sa-east-1 address=3.4.15.152/29
 add list=aws_sa-east-1 address=69.107.7.112/29
 add list=aws_sa-east-1 address=150.222.44.128/27
 add list=aws_sa-east-1 address=54.20.0.0/15
@@ -109,6 +111,7 @@ add list=aws_sa-east-1 address=52.46.172.0/22
 add list=aws_sa-east-1 address=13.248.104.0/24
 add list=aws_sa-east-1 address=52.94.148.0/22
 add list=aws_sa-east-1 address=15.230.73.64/26
+add list=aws_sa-east-1 address=3.4.12.50/32
 add list=aws_sa-east-1 address=52.95.255.0/28
 add list=aws_sa-east-1 address=150.222.51.32/27
 add list=aws_sa-east-1 address=35.71.106.0/24
