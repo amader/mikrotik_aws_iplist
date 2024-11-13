@@ -1,4 +1,4 @@
-# Generated on 2024-11-13, 00:02:01 CET
+# Generated on 2024-11-14, 00:02:02 CET
 /ip firewall address-list
 add list=aws_us-west-2 address=52.94.76.0/22
 add list=aws_us-west-2 address=15.230.102.0/24
@@ -50,6 +50,7 @@ add list=aws_us-west-2 address=54.68.0.0/14
 add list=aws_us-west-2 address=54.212.0.0/15
 add list=aws_us-west-2 address=184.32.0.0/12
 add list=aws_us-west-2 address=15.220.202.0/23
+add list=aws_us-west-2 address=35.50.129.0/24
 add list=aws_us-west-2 address=52.93.246.221/32
 add list=aws_us-west-2 address=52.95.230.0/24
 add list=aws_us-west-2 address=99.77.253.0/24
@@ -75,6 +76,7 @@ add list=aws_us-west-2 address=5.60.172.0/22
 add list=aws_us-west-2 address=44.224.0.0/11
 add list=aws_us-west-2 address=3.4.15.120/29
 add list=aws_us-west-2 address=64.252.73.0/24
+add list=aws_us-west-2 address=35.50.130.0/24
 add list=aws_us-west-2 address=52.95.255.112/28
 add list=aws_us-west-2 address=150.222.39.0/26
 add list=aws_us-west-2 address=35.96.16.0/20
@@ -94,6 +96,7 @@ add list=aws_us-west-2 address=18.34.244.0/22
 add list=aws_us-west-2 address=52.46.216.0/22
 add list=aws_us-west-2 address=52.36.0.0/14
 add list=aws_us-west-2 address=15.220.226.0/24
+add list=aws_us-west-2 address=35.50.128.0/24
 add list=aws_us-west-2 address=205.251.226.0/24
 add list=aws_us-west-2 address=15.230.240.0/24
 add list=aws_us-west-2 address=54.202.0.0/15
@@ -186,6 +189,7 @@ add list=aws_us-west-2 address=35.96.3.0/24
 add list=aws_us-west-2 address=15.220.224.0/23
 add list=aws_us-west-2 address=150.222.39.64/26
 add list=aws_us-west-2 address=15.181.250.0/24
+add list=aws_us-west-2 address=35.50.131.0/24
 add list=aws_us-west-2 address=52.92.128.0/17
 add list=aws_us-west-2 address=52.94.28.0/23
 add list=aws_us-west-2 address=150.222.214.0/24
@@ -234,6 +238,10 @@ add list=aws_us-west-2 address=52.218.128.0/17
 add list=aws_us-west-2 address=52.92.128.0/17
 add list=aws_us-west-2 address=35.80.36.208/28
 add list=aws_us-west-2 address=35.80.36.224/28
+add list=aws_us-west-2 address=35.50.129.0/24
+add list=aws_us-west-2 address=35.50.130.0/24
+add list=aws_us-west-2 address=35.50.128.0/24
+add list=aws_us-west-2 address=35.50.131.0/24
 add list=aws_us-west-2 address=5.60.200.0/22
 add list=aws_us-west-2 address=139.56.16.0/23
 add list=aws_us-west-2 address=15.220.252.0/22
@@ -264,6 +272,7 @@ add list=aws_us-west-2 address=18.98.0.0/18
 add list=aws_us-west-2 address=54.68.0.0/14
 add list=aws_us-west-2 address=54.212.0.0/15
 add list=aws_us-west-2 address=15.220.202.0/23
+add list=aws_us-west-2 address=35.50.129.0/24
 add list=aws_us-west-2 address=52.95.230.0/24
 add list=aws_us-west-2 address=99.77.253.0/24
 add list=aws_us-west-2 address=3.4.6.0/24
@@ -283,6 +292,7 @@ add list=aws_us-west-2 address=35.96.6.0/24
 add list=aws_us-west-2 address=5.60.172.0/22
 add list=aws_us-west-2 address=44.224.0.0/11
 add list=aws_us-west-2 address=64.252.73.0/24
+add list=aws_us-west-2 address=35.50.130.0/24
 add list=aws_us-west-2 address=52.95.255.112/28
 add list=aws_us-west-2 address=35.96.16.0/20
 add list=aws_us-west-2 address=100.20.0.0/14
@@ -294,6 +304,7 @@ add list=aws_us-west-2 address=35.71.64.0/22
 add list=aws_us-west-2 address=18.34.244.0/22
 add list=aws_us-west-2 address=52.36.0.0/14
 add list=aws_us-west-2 address=15.220.226.0/24
+add list=aws_us-west-2 address=35.50.128.0/24
 add list=aws_us-west-2 address=54.202.0.0/15
 add list=aws_us-west-2 address=15.181.128.0/20
 add list=aws_us-west-2 address=15.220.204.0/24
@@ -345,6 +356,7 @@ add list=aws_us-west-2 address=15.181.116.0/22
 add list=aws_us-west-2 address=35.96.3.0/24
 add list=aws_us-west-2 address=15.220.224.0/23
 add list=aws_us-west-2 address=15.181.250.0/24
+add list=aws_us-west-2 address=35.50.131.0/24
 add list=aws_us-west-2 address=35.96.0.0/24
 add list=aws_us-west-2 address=15.220.40.0/22
 add list=aws_us-west-2 address=52.94.248.96/28
