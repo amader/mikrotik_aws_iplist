@@ -1,4 +1,4 @@
-# Generated on 2024-11-14, 00:02:02 CET
+# Generated on 2024-11-15, 00:02:01 CET
 /ip firewall address-list
 add list=aws_ap-south-1 address=3.108.0.0/14
 add list=aws_ap-south-1 address=13.248.117.0/24
@@ -15,6 +15,7 @@ add list=aws_ap-south-1 address=99.77.238.0/24
 add list=aws_ap-south-1 address=52.93.127.127/32
 add list=aws_ap-south-1 address=3.4.12.19/32
 add list=aws_ap-south-1 address=3.5.208.0/22
+add list=aws_ap-south-1 address=35.50.233.0/24
 add list=aws_ap-south-1 address=52.93.148.0/26
 add list=aws_ap-south-1 address=13.248.105.0/24
 add list=aws_ap-south-1 address=52.144.228.0/31
@@ -26,6 +27,7 @@ add list=aws_ap-south-1 address=52.94.198.80/28
 add list=aws_ap-south-1 address=150.222.123.0/24
 add list=aws_ap-south-1 address=54.239.0.208/28
 add list=aws_ap-south-1 address=52.93.126.244/32
+add list=aws_ap-south-1 address=35.50.231.0/24
 add list=aws_ap-south-1 address=15.230.215.0/24
 add list=aws_ap-south-1 address=52.219.62.0/23
 add list=aws_ap-south-1 address=43.204.0.0/15
@@ -83,6 +85,7 @@ add list=aws_ap-south-1 address=15.230.70.128/26
 add list=aws_ap-south-1 address=15.193.0.0/24
 add list=aws_ap-south-1 address=52.66.0.0/16
 add list=aws_ap-south-1 address=3.4.12.20/32
+add list=aws_ap-south-1 address=35.50.232.0/24
 add list=aws_ap-south-1 address=104.255.59.91/32
 add list=aws_ap-south-1 address=104.255.59.85/32
 add list=aws_ap-south-1 address=52.219.156.0/22
@@ -144,13 +147,18 @@ add list=aws_ap-south-1 address=52.219.156.0/22
 add list=aws_ap-south-1 address=16.12.40.0/23
 add list=aws_ap-south-1 address=65.1.103.208/28
 add list=aws_ap-south-1 address=65.1.103.224/28
+add list=aws_ap-south-1 address=35.50.233.0/24
+add list=aws_ap-south-1 address=35.50.231.0/24
+add list=aws_ap-south-1 address=35.50.232.0/24
 add list=aws_ap-south-1 address=3.108.0.0/14
 add list=aws_ap-south-1 address=15.220.216.0/22
 add list=aws_ap-south-1 address=13.204.0.0/14
 add list=aws_ap-south-1 address=99.77.238.0/24
 add list=aws_ap-south-1 address=3.5.208.0/22
+add list=aws_ap-south-1 address=35.50.233.0/24
 add list=aws_ap-south-1 address=15.220.232.0/24
 add list=aws_ap-south-1 address=5.60.220.0/22
+add list=aws_ap-south-1 address=35.50.231.0/24
 add list=aws_ap-south-1 address=43.204.0.0/15
 add list=aws_ap-south-1 address=142.4.179.0/24
 add list=aws_ap-south-1 address=173.83.211.0/24
@@ -176,6 +184,7 @@ add list=aws_ap-south-1 address=52.94.248.144/28
 add list=aws_ap-south-1 address=3.5.212.0/23
 add list=aws_ap-south-1 address=15.193.0.0/24
 add list=aws_ap-south-1 address=52.66.0.0/16
+add list=aws_ap-south-1 address=35.50.232.0/24
 add list=aws_ap-south-1 address=96.0.60.0/22
 add list=aws_ap-south-1 address=35.154.0.0/16
 add list=aws_ap-south-1 address=64.252.98.0/24
