@@ -1,4 +1,4 @@
-# Generated on 2024-12-03, 00:02:02 CET
+# Generated on 2024-12-04, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ca-central-1 address=15.230.110.0/24
 add list=aws_ca-central-1 address=52.144.199.128/26
@@ -19,8 +19,8 @@ add list=aws_ca-central-1 address=99.77.233.0/24
 add list=aws_ca-central-1 address=15.230.79.0/26
 add list=aws_ca-central-1 address=3.96.0.0/15
 add list=aws_ca-central-1 address=3.5.252.0/22
-add list=aws_ca-central-1 address=16.52.0.0/14
 add list=aws_ca-central-1 address=15.230.91.0/24
+add list=aws_ca-central-1 address=16.52.0.0/16
 add list=aws_ca-central-1 address=52.93.193.198/32
 add list=aws_ca-central-1 address=15.251.0.47/32
 add list=aws_ca-central-1 address=173.83.217.0/24
@@ -43,6 +43,7 @@ add list=aws_ca-central-1 address=52.94.96.0/20
 add list=aws_ca-central-1 address=15.230.90.0/24
 add list=aws_ca-central-1 address=52.93.193.197/32
 add list=aws_ca-central-1 address=136.18.134.0/23
+add list=aws_ca-central-1 address=16.53.0.0/16
 add list=aws_ca-central-1 address=52.94.14.0/24
 add list=aws_ca-central-1 address=15.230.79.128/26
 add list=aws_ca-central-1 address=52.93.193.202/32
@@ -63,6 +64,7 @@ add list=aws_ca-central-1 address=52.95.250.0/24
 add list=aws_ca-central-1 address=52.93.193.201/32
 add list=aws_ca-central-1 address=13.248.126.0/24
 add list=aws_ca-central-1 address=52.93.193.203/32
+add list=aws_ca-central-1 address=16.54.0.0/15
 add list=aws_ca-central-1 address=54.239.1.0/28
 add list=aws_ca-central-1 address=150.222.43.192/27
 add list=aws_ca-central-1 address=161.193.128.0/18
@@ -93,6 +95,7 @@ add list=aws_ca-central-1 address=35.182.0.0/15
 add list=aws_ca-central-1 address=99.77.233.0/24
 add list=aws_ca-central-1 address=3.96.0.0/15
 add list=aws_ca-central-1 address=3.5.252.0/22
+add list=aws_ca-central-1 address=16.52.0.0/16
 add list=aws_ca-central-1 address=173.83.217.0/24
 add list=aws_ca-central-1 address=99.151.128.0/21
 add list=aws_ca-central-1 address=99.79.0.0/16
