@@ -1,4 +1,4 @@
-# Generated on 2024-12-09, 00:02:02 CET
+# Generated on 2024-12-10, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-east-1_v6 address=2600:1ff9:81d0::/46
 add list=aws_us-east-1_v6 address=2600:f0f0:2::/48
@@ -68,6 +68,7 @@ add list=aws_us-east-1_v6 address=2600:f0f3:ce00::/48
 add list=aws_us-east-1_v6 address=2602:f7db::/44
 add list=aws_us-east-1_v6 address=2600:1f2f:4000::/36
 add list=aws_us-east-1_v6 address=2600:1ff9:8180::/46
+add list=aws_us-east-1_v6 address=2600:f0f0:11::/48
 add list=aws_us-east-1_v6 address=2605:9cc0:1ff0:800::/56
 add list=aws_us-east-1_v6 address=2600:f0f0:0:204::/62
 add list=aws_us-east-1_v6 address=2600:f0f0:0:21c::/62
@@ -242,6 +243,7 @@ add list=aws_us-east-1_v6 address=2600:1ff0:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f3:ce00::/48
 add list=aws_us-east-1_v6 address=2602:f7db::/44
 add list=aws_us-east-1_v6 address=2600:1f2f:4000::/36
+add list=aws_us-east-1_v6 address=2600:f0f0:11::/48
 add list=aws_us-east-1_v6 address=2605:9cc0:1ff0:800::/56
 add list=aws_us-east-1_v6 address=2600:f0f0:0:204::/62
 add list=aws_us-east-1_v6 address=2600:f0f0:0:21c::/62
