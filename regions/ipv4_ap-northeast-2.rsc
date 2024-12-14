@@ -1,4 +1,4 @@
-# Generated on 2024-12-14, 00:02:02 CET
+# Generated on 2024-12-15, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ap-northeast-2 address=3.5.140.0/22
 add list=aws_ap-northeast-2 address=52.219.60.0/23
