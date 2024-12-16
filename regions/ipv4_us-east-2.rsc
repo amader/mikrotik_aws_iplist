@@ -1,4 +1,4 @@
-# Generated on 2024-12-16, 00:02:02 CET
+# Generated on 2024-12-17, 00:02:01 CET
 /ip firewall address-list
 add list=aws_us-east-2 address=15.230.39.60/31
 add list=aws_us-east-2 address=15.230.39.208/31
