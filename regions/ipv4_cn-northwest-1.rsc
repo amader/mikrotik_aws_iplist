@@ -1,4 +1,4 @@
-# Generated on 2024-12-17, 00:02:01 CET
+# Generated on 2024-12-18, 00:02:02 CET
 /ip firewall address-list
 add list=aws_cn-northwest-1 address=52.82.169.16/28
 add list=aws_cn-northwest-1 address=52.82.169.0/28
@@ -59,6 +59,9 @@ add list=aws_cn-northwest-1 address=68.79.2.192/28
 add list=aws_cn-northwest-1 address=68.79.2.224/28
 add list=aws_cn-northwest-1 address=69.234.250.64/28
 add list=aws_cn-northwest-1 address=69.234.250.80/28
+add list=aws_cn-northwest-1 address=43.192.144.0/22
+add list=aws_cn-northwest-1 address=52.83.58.0/24
+add list=aws_cn-northwest-1 address=69.235.162.0/24
 add list=aws_cn-northwest-1 address=52.82.169.0/28
 add list=aws_cn-northwest-1 address=43.193.0.0/18
 add list=aws_cn-northwest-1 address=52.83.0.0/16
@@ -108,8 +111,5 @@ add list=aws_cn-northwest-1 address=43.192.155.140/30
 add list=aws_cn-northwest-1 address=68.79.2.244/30
 add list=aws_cn-northwest-1 address=68.79.2.248/29
 add list=aws_cn-northwest-1 address=43.192.155.8/29
-add list=aws_cn-northwest-1 address=43.192.144.0/22
-add list=aws_cn-northwest-1 address=52.83.58.0/24
-add list=aws_cn-northwest-1 address=69.235.162.0/24
 add list=aws_cn-northwest-1 address=52.82.187.0/24
 add list=aws_cn-northwest-1 address=43.193.64.0/24
