@@ -1,4 +1,4 @@
-# Generated on 2024-12-21, 00:02:02 CET
+# Generated on 2024-12-22, 00:02:02 CET
 /ip firewall address-list
 add list=aws_eu-central-2 address=51.34.0.0/16
 add list=aws_eu-central-2 address=56.242.0.0/16
