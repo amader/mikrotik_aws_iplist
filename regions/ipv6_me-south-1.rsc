@@ -1,4 +1,4 @@
-# Generated on 2024-12-27, 00:02:01 CET
+# Generated on 2024-12-28, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_me-south-1_v6 address=2a05:d070:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552e::/48
@@ -11,6 +11,7 @@ add list=aws_me-south-1_v6 address=2a05:d02e::/36
 add list=aws_me-south-1_v6 address=2a05:d077:e000::/40
 add list=aws_me-south-1_v6 address=2a05:d072:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552c::/48
+add list=aws_me-south-1_v6 address=2a05:d031:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552f::/48
 add list=aws_me-south-1_v6 address=2a05:d07b:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552b::/48
@@ -61,6 +62,7 @@ add list=aws_me-south-1_v6 address=2a05:d02e::/36
 add list=aws_me-south-1_v6 address=2a05:d077:e000::/40
 add list=aws_me-south-1_v6 address=2a05:d072:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552c::/48
+add list=aws_me-south-1_v6 address=2a05:d031:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552f::/48
 add list=aws_me-south-1_v6 address=2a05:d07b:e000::/40
 add list=aws_me-south-1_v6 address=2600:f0f0:552b::/48

@@ -1,4 +1,4 @@
-# Generated on 2024-12-27, 00:02:01 CET
+# Generated on 2024-12-28, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_il-central-1_v6 address=2a05:d034:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d035:5000::/40
@@ -28,6 +28,7 @@ add list=aws_il-central-1_v6 address=2a05:d036:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d038:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d07e:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d07b:5000::/40
+add list=aws_il-central-1_v6 address=2a05:d031:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d034:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d079:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d078:5000::/40
@@ -55,4 +56,5 @@ add list=aws_il-central-1_v6 address=2a05:d058:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d036:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d038:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d07b:5000::/40
+add list=aws_il-central-1_v6 address=2a05:d031:5000::/40
 add list=aws_il-central-1_v6 address=2a05:d025:451:7d00::/56
