@@ -1,4 +1,4 @@
-# Generated on 2025-01-05, 00:02:02 CET
+# Generated on 2025-01-06, 00:02:02 CET
 /ip firewall address-list
 add list=aws_cn-northwest-1 address=52.82.169.16/28
 add list=aws_cn-northwest-1 address=52.82.169.0/28
