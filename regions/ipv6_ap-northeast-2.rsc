@@ -1,4 +1,4 @@
-# Generated on 2025-01-06, 00:02:02 CET
+# Generated on 2025-01-07, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ap-northeast-2_v6 address=2600:9000:5206::/48
 add list=aws_ap-northeast-2_v6 address=2406:daf5:2000::/40
