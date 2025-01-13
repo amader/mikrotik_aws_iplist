@@ -1,4 +1,4 @@
-# Generated on 2025-01-13, 00:02:01 CET
+# Generated on 2025-01-14, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ca-central-1_v6 address=2600:1f68:1000::/40
 add list=aws_ca-central-1_v6 address=2600:1f60:1000::/40
