@@ -1,4 +1,4 @@
-# Generated on 2025-01-16, 00:02:02 CET
+# Generated on 2025-01-17, 00:02:01 CET
 /ip firewall address-list
 add list=aws_us-east-1 address=15.230.221.0/24
 add list=aws_us-east-1 address=52.94.152.9/32
@@ -62,7 +62,6 @@ add list=aws_us-east-1 address=155.146.176.0/20
 add list=aws_us-east-1 address=15.230.204.0/25
 add list=aws_us-east-1 address=52.93.91.101/32
 add list=aws_us-east-1 address=54.25.15.0/24
-add list=aws_us-east-1 address=142.4.167.0/24
 add list=aws_us-east-1 address=52.46.252.0/22
 add list=aws_us-east-1 address=52.93.86.166/32
 add list=aws_us-east-1 address=52.93.88.198/32
@@ -71,7 +70,6 @@ add list=aws_us-east-1 address=52.93.86.192/32
 add list=aws_us-east-1 address=150.222.25.37/32
 add list=aws_us-east-1 address=150.222.227.0/24
 add list=aws_us-east-1 address=52.119.206.0/23
-add list=aws_us-east-1 address=142.4.164.0/24
 add list=aws_us-east-1 address=52.93.24.0/21
 add list=aws_us-east-1 address=52.93.127.218/32
 add list=aws_us-east-1 address=205.251.244.0/23
@@ -267,7 +265,6 @@ add list=aws_us-east-1 address=52.93.64.0/24
 add list=aws_us-east-1 address=104.153.112.0/24
 add list=aws_us-east-1 address=139.56.26.0/23
 add list=aws_us-east-1 address=96.0.100.0/23
-add list=aws_us-east-1 address=142.4.166.0/24
 add list=aws_us-east-1 address=161.188.16.0/20
 add list=aws_us-east-1 address=63.246.119.0/24
 add list=aws_us-east-1 address=155.146.208.0/20
@@ -525,7 +522,6 @@ add list=aws_us-east-1 address=69.107.7.64/29
 add list=aws_us-east-1 address=139.56.22.0/23
 add list=aws_us-east-1 address=15.230.206.0/24
 add list=aws_us-east-1 address=161.193.0.0/18
-add list=aws_us-east-1 address=142.4.165.0/24
 add list=aws_us-east-1 address=142.4.178.0/24
 add list=aws_us-east-1 address=52.93.90.195/32
 add list=aws_us-east-1 address=3.208.0.0/12
@@ -756,8 +752,6 @@ add list=aws_us-east-1 address=136.18.128.0/23
 add list=aws_us-east-1 address=107.20.0.0/14
 add list=aws_us-east-1 address=155.146.176.0/20
 add list=aws_us-east-1 address=54.25.15.0/24
-add list=aws_us-east-1 address=142.4.167.0/24
-add list=aws_us-east-1 address=142.4.164.0/24
 add list=aws_us-east-1 address=54.144.0.0/14
 add list=aws_us-east-1 address=5.60.144.0/22
 add list=aws_us-east-1 address=75.101.128.0/17
@@ -827,7 +821,6 @@ add list=aws_us-east-1 address=136.18.50.0/23
 add list=aws_us-east-1 address=139.56.28.0/23
 add list=aws_us-east-1 address=139.56.26.0/23
 add list=aws_us-east-1 address=96.0.100.0/23
-add list=aws_us-east-1 address=142.4.166.0/24
 add list=aws_us-east-1 address=161.188.16.0/20
 add list=aws_us-east-1 address=63.246.119.0/24
 add list=aws_us-east-1 address=155.146.208.0/20
@@ -924,7 +917,6 @@ add list=aws_us-east-1 address=161.188.48.0/20
 add list=aws_us-east-1 address=15.181.249.0/24
 add list=aws_us-east-1 address=139.56.22.0/23
 add list=aws_us-east-1 address=161.193.0.0/18
-add list=aws_us-east-1 address=142.4.165.0/24
 add list=aws_us-east-1 address=142.4.178.0/24
 add list=aws_us-east-1 address=3.208.0.0/12
 add list=aws_us-east-1 address=161.178.0.0/18
