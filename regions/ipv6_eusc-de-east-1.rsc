@@ -1,4 +1,4 @@
-# Generated on 2025-01-17, 00:02:01 CET
+# Generated on 2025-01-18, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_eusc-de-east-1_v6 address=2001:3fc7:1800::/40
 add list=aws_eusc-de-east-1_v6 address=2001:3fc5:8800::/40

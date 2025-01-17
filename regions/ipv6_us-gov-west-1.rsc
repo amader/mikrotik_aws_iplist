@@ -1,4 +1,4 @@
-# Generated on 2025-01-17, 00:02:01 CET
+# Generated on 2025-01-18, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-gov-west-1_v6 address=2600:1ff6:2000::/40
 add list=aws_us-gov-west-1_v6 address=2600:1fff:2000::/40
@@ -31,6 +31,7 @@ add list=aws_us-gov-west-1_v6 address=2620:107:4000:5::/64
 add list=aws_us-gov-west-1_v6 address=2600:1f61:2000::/40
 add list=aws_us-gov-west-1_v6 address=2600:1ffe:2000::/40
 add list=aws_us-gov-west-1_v6 address=2600:1fa0:2000::/40
+add list=aws_us-gov-west-1_v6 address=2600:1f60:2000::/40
 add list=aws_us-gov-west-1_v6 address=2600:1ff0:2000::/40
 add list=aws_us-gov-west-1_v6 address=2600:1ff8:2000::/40
 add list=aws_us-gov-west-1_v6 address=2600:1ff9:2000::/40

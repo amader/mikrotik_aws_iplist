@@ -1,4 +1,4 @@
-# Generated on 2025-01-17, 00:02:01 CET
+# Generated on 2025-01-18, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ap-east-1_v6 address=2406:dab8:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf8:e000::/40
@@ -35,6 +35,7 @@ add list=aws_ap-east-1_v6 address=2406:da70:e000:400::/56
 add list=aws_ap-east-1_v6 address=2406:da70:e000::/56
 add list=aws_ap-east-1_v6 address=2406:daf8:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf9:e000::/40
+add list=aws_ap-east-1_v6 address=2406:da60:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daa0:e000::/40
 add list=aws_ap-east-1_v6 address=2406:daf0:e000::/40
 add list=aws_ap-east-1_v6 address=2406:dafa:e000::/40

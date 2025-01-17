@@ -1,4 +1,4 @@
-# Generated on 2025-01-17, 00:02:01 CET
+# Generated on 2025-01-18, 00:02:02 CET
 /ip firewall address-list
 add list=aws_il-central-1 address=51.85.0.0/16
 add list=aws_il-central-1 address=18.96.160.0/19

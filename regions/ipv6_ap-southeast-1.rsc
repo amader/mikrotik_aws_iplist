@@ -1,4 +1,4 @@
-# Generated on 2025-01-17, 00:02:01 CET
+# Generated on 2025-01-18, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_ap-southeast-1_v6 address=2406:daf1:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:da70:8800::/40
@@ -9,6 +9,7 @@ add list=aws_ap-southeast-1_v6 address=2406:daf9:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:da69:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:da32:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:dafe:8800::/40
+add list=aws_ap-southeast-1_v6 address=2406:da2a:8000::/36
 add list=aws_ap-southeast-1_v6 address=2406:dafc:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:daf4:8800::/40
 add list=aws_ap-southeast-1_v6 address=2600:f0f0:553f::/48
@@ -26,6 +27,7 @@ add list=aws_ap-southeast-1_v6 address=2406:da36:8000::/40
 add list=aws_ap-southeast-1_v6 address=2600:1ffd:8422::/48
 add list=aws_ap-southeast-1_v6 address=2406:daf4:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:daf6:8000::/40
+add list=aws_ap-southeast-1_v6 address=2406:da1a:8000::/36
 add list=aws_ap-southeast-1_v6 address=2406:da68:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:da60:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:da36:8800::/40
@@ -74,8 +76,11 @@ add list=aws_ap-southeast-1_v6 address=2406:da18:7ff:f800::/56
 add list=aws_ap-southeast-1_v6 address=2406:da18:fff:f800::/56
 add list=aws_ap-southeast-1_v6 address=2406:daf9:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:daa0:8000::/40
+add list=aws_ap-southeast-1_v6 address=2406:da68:8800::/40
+add list=aws_ap-southeast-1_v6 address=2406:da60:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:daa0:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:daf8:8000::/40
+add list=aws_ap-southeast-1_v6 address=2406:da60:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:daf0:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:da68:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:dafa:8000::/40
@@ -91,6 +96,7 @@ add list=aws_ap-southeast-1_v6 address=2406:da00:8000::/40
 add list=aws_ap-southeast-1_v6 address=2400:6500:ff00::/48
 add list=aws_ap-southeast-1_v6 address=2406:da69:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:da32:8800::/40
+add list=aws_ap-southeast-1_v6 address=2406:da2a:8000::/36
 add list=aws_ap-southeast-1_v6 address=2406:daf4:8800::/40
 add list=aws_ap-southeast-1_v6 address=2600:f0f0:553f::/48
 add list=aws_ap-southeast-1_v6 address=2406:da61:8800::/40
@@ -104,6 +110,7 @@ add list=aws_ap-southeast-1_v6 address=2406:da36:8000::/40
 add list=aws_ap-southeast-1_v6 address=2600:1ffd:8422::/48
 add list=aws_ap-southeast-1_v6 address=2406:daf4:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:daf6:8000::/40
+add list=aws_ap-southeast-1_v6 address=2406:da1a:8000::/36
 add list=aws_ap-southeast-1_v6 address=2406:da68:8800::/40
 add list=aws_ap-southeast-1_v6 address=2406:da60:8000::/40
 add list=aws_ap-southeast-1_v6 address=2406:da36:8800::/40
