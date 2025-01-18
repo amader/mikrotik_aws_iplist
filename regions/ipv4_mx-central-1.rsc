@@ -1,4 +1,4 @@
-# Generated on 2025-01-18, 00:02:02 CET
+# Generated on 2025-01-19, 00:02:02 CET
 /ip firewall address-list
 add list=aws_mx-central-1 address=150.222.53.160/27
 add list=aws_mx-central-1 address=136.18.152.0/21
