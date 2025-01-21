@@ -1,4 +1,4 @@
-# Generated on 2025-01-21, 00:02:02 CET
+# Generated on 2025-01-22, 00:02:02 CET
 /ipv6 firewall address-list
 add list=aws_us-east-1_v6 address=2600:1ff9:81d0::/46
 add list=aws_us-east-1_v6 address=2600:f0f0:2::/48
@@ -51,6 +51,7 @@ add list=aws_us-east-1_v6 address=2620:107:4000::/64
 add list=aws_us-east-1_v6 address=2600:f0f0:551c::/48
 add list=aws_us-east-1_v6 address=2620:107:4000:900d::/64
 add list=aws_us-east-1_v6 address=2600:1f12:4000::/36
+add list=aws_us-east-1_v6 address=2600:1f30:8040::/48
 add list=aws_us-east-1_v6 address=2600:1ff4:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:1000::/44
 add list=aws_us-east-1_v6 address=2600:1ffd:807b::/48
@@ -102,6 +103,7 @@ add list=aws_us-east-1_v6 address=2600:1f38:8000::/39
 add list=aws_us-east-1_v6 address=2600:1f13:8000::/36
 add list=aws_us-east-1_v6 address=2600:f0f0:f00:100::/56
 add list=aws_us-east-1_v6 address=2600:1f1c:8000::/36
+add list=aws_us-east-1_v6 address=2600:1f30:8020::/48
 add list=aws_us-east-1_v6 address=2600:1ff9:8190::/46
 add list=aws_us-east-1_v6 address=2600:f000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:0:208::/62
@@ -227,6 +229,7 @@ add list=aws_us-east-1_v6 address=2600:1f19:4000::/36
 add list=aws_us-east-1_v6 address=2600:1f61:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:551c::/48
 add list=aws_us-east-1_v6 address=2600:1f12:4000::/36
+add list=aws_us-east-1_v6 address=2600:1f30:8040::/48
 add list=aws_us-east-1_v6 address=2600:1ff4:8000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:1000::/44
 add list=aws_us-east-1_v6 address=2600:1ffd:807b::/48
@@ -269,6 +272,7 @@ add list=aws_us-east-1_v6 address=2600:1f38:8000::/39
 add list=aws_us-east-1_v6 address=2600:1f13:8000::/36
 add list=aws_us-east-1_v6 address=2600:f0f0:f00:100::/56
 add list=aws_us-east-1_v6 address=2600:1f1c:8000::/36
+add list=aws_us-east-1_v6 address=2600:1f30:8020::/48
 add list=aws_us-east-1_v6 address=2600:f000::/39
 add list=aws_us-east-1_v6 address=2600:f0f0:0:208::/62
 add list=aws_us-east-1_v6 address=2600:1fb8:8000::/39
