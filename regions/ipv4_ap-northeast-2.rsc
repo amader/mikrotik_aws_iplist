@@ -1,13 +1,15 @@
-# Generated on 2025-01-23, 00:02:02 CET
+# Generated on 2025-01-24, 00:02:02 CET
 /ip firewall address-list
 add list=aws_ap-northeast-2 address=3.5.140.0/22
 add list=aws_ap-northeast-2 address=52.219.60.0/23
 add list=aws_ap-northeast-2 address=43.249.45.0/24
 add list=aws_ap-northeast-2 address=52.144.227.192/26
 add list=aws_ap-northeast-2 address=52.219.204.0/22
+add list=aws_ap-northeast-2 address=35.50.238.0/24
 add list=aws_ap-northeast-2 address=52.94.6.0/24
 add list=aws_ap-northeast-2 address=151.148.40.0/24
 add list=aws_ap-northeast-2 address=15.230.74.128/26
+add list=aws_ap-northeast-2 address=35.50.239.0/24
 add list=aws_ap-northeast-2 address=15.230.74.192/26
 add list=aws_ap-northeast-2 address=15.177.76.0/24
 add list=aws_ap-northeast-2 address=3.4.15.0/29
@@ -37,6 +39,7 @@ add list=aws_ap-northeast-2 address=15.251.0.33/32
 add list=aws_ap-northeast-2 address=99.78.188.0/22
 add list=aws_ap-northeast-2 address=16.184.0.0/18
 add list=aws_ap-northeast-2 address=104.255.59.118/32
+add list=aws_ap-northeast-2 address=35.50.237.0/24
 add list=aws_ap-northeast-2 address=18.98.128.0/19
 add list=aws_ap-northeast-2 address=99.78.184.0/22
 add list=aws_ap-northeast-2 address=52.93.248.0/24
@@ -103,12 +106,17 @@ add list=aws_ap-northeast-2 address=52.219.56.0/22
 add list=aws_ap-northeast-2 address=52.219.144.0/22
 add list=aws_ap-northeast-2 address=3.36.167.64/28
 add list=aws_ap-northeast-2 address=3.36.167.80/28
+add list=aws_ap-northeast-2 address=35.50.238.0/24
+add list=aws_ap-northeast-2 address=35.50.239.0/24
+add list=aws_ap-northeast-2 address=35.50.237.0/24
 add list=aws_ap-northeast-2 address=13.124.247.0/24
 add list=aws_ap-northeast-2 address=3.34.37.0/24
 add list=aws_ap-northeast-2 address=3.34.38.0/23
 add list=aws_ap-northeast-2 address=3.35.160.0/22
 add list=aws_ap-northeast-2 address=3.5.140.0/22
+add list=aws_ap-northeast-2 address=35.50.238.0/24
 add list=aws_ap-northeast-2 address=151.148.40.0/24
+add list=aws_ap-northeast-2 address=35.50.239.0/24
 add list=aws_ap-northeast-2 address=15.177.76.0/24
 add list=aws_ap-northeast-2 address=159.248.216.0/21
 add list=aws_ap-northeast-2 address=43.200.0.0/14
@@ -119,6 +127,7 @@ add list=aws_ap-northeast-2 address=52.79.0.0/16
 add list=aws_ap-northeast-2 address=159.248.200.0/21
 add list=aws_ap-northeast-2 address=3.5.184.0/21
 add list=aws_ap-northeast-2 address=16.184.0.0/18
+add list=aws_ap-northeast-2 address=35.50.237.0/24
 add list=aws_ap-northeast-2 address=18.98.128.0/19
 add list=aws_ap-northeast-2 address=13.125.0.0/16
 add list=aws_ap-northeast-2 address=15.193.9.0/24
